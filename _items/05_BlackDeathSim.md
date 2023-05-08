@@ -7,6 +7,24 @@ categories: [ Digital Tool Building, Digital Pedagogy, Digital Public History ]
 tags: [  ]
 ---
 
-## Black Death Sim
-
 Agent-based modeling and simulation rendering as a path to dital public history
+
+### DBHR stages
+
+#### Past
+
+#### Current
+
+#### Future
+
+
+## Funding & publications
+
+- List
+
+## Examples 
+
+- List
+
+
+

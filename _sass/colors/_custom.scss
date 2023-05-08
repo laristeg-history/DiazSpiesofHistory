@@ -1,0 +1,42 @@
+/** == TEAL AND TAN Color Palette
+<palette>
+  <color name="Jet" hex="353535" r="53" g="53" b="53" />
+  <color name="Dark Cyan" hex="169da2" r="149" g="183" b="184" />
+  <color name="White" hex="ffffff" r="255" g="255" b="255" />
+  <color name="Timberwolf" hex="d2d2c6" r="228" g="228" b="221" />
+  <color name="Gunmetal" hex="1a373b" r="26" g="55" b="59" />
+</palette>
+
+<!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      <script data-id="015830249523910633">new CoolorsPaletteWidget("015830249523910633", ["353535","169da2","ffffff","d2d2c6","1a373b"]); </script>
+
+/* SCSS HEX */
+
+/* SCSS HEX */
+$jet: #353535ff;
+$dark-cyan: #169da2ff;
+$white: #ffffffff;
+$timberwolf: #d2d2c6ff;
+$gunmetal: #1a373bff;
+
+/** main color scheme **/
+$main-text-color: $jet;
+$main-bg: $white;
+$main-link: $dark-cyan;
+$main-link-hover: $gunmetal;
+$main-headers: $dark-cyan;
+
+/** dark-background color scheme **/
+$dark-text-color: $white;
+$dark-bg: $gunmetal;
+$dark-link: $timberwolf;
+$dark-link-hover: $dark-cyan;
+$dark-headers: $timberwolf;
+
+/** accent-background color scheme **/
+$accent-text-color: $jet;
+$accent-bg: $timberwolf;
+$accent-link: $gunmetal;
+$accent-link-hover: $dark-cyan;
+$accent-headers: $gunmetal;
