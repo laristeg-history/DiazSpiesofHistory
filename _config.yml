@@ -41,10 +41,10 @@ remote_theme: kalanicraig/community-archive-jekyll
 #---------------------
 
 # Title of your website
-title: "2023 Dossier, Kalani Craig"
+title: "Kalani Craig Dossier"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "For tenure as Associate Professor of History"
+subtitle: "For 2023 Tenure as Associate Professor of History"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
 description: "Community Archiving Site"
@@ -80,11 +80,12 @@ google_g4_analytics_id: G-LVREG1Y1DT
 # You can see these font choices in action at https://kalanicraig.com/community-archive/docs/
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
+fontchoice: custom # Custom fonts for this specific site
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
-fontchoice: roboto # A clean sans-serif font with simple serif accents
+#fontchoice: roboto # A clean sans-serif font with simple serif accents
 #fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
@@ -92,7 +93,8 @@ fontchoice: roboto # A clean sans-serif font with simple serif accents
 # You can see these color choices in action at https://kalanicraig.com/community-archive/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-colorchoice: navy # Navy with bright teal and grey
+colorchoice: custom # Custom colors for this specific site
+#colorchoice: navy # Navy with bright teal and grey
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents

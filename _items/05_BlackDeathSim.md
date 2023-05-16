@@ -3,6 +3,7 @@ layout: item
 title: BlackDeathSim
 author: "Kalani Craig and Joshua Danish"
 embedurl: 
+group: research
 categories: [ Digital Tool Building, Digital Pedagogy, Digital Public History ]
 tags: [  ]
 ---

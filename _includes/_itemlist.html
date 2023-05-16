@@ -1,0 +1,8 @@
+{% if page.group %}
+{% assign siteitems = site.items | where:"group", page.group  %}
+{% else %}{% assign siteitems = site.items %}
+{% endif %}
+
+{% for item in siteitems %}
+{% include _itembox.html %}
+{% endfor %}

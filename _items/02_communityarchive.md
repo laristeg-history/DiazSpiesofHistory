@@ -4,6 +4,7 @@ title: Digital Community Archiving
 author: "Kalani Craig with IDAH, CRRES, Marisa Hicks Alcaraz and Jazma Sutton"
 externalurl: http://community-archive.kalanicraig.com
 embedurl: 
+group: research
 categories: [ DBHR, Digital Tool Building, Digital Pedagogy, Digital Public History ]
 tags: [  ]
 ---

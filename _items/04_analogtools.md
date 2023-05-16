@@ -4,6 +4,7 @@ title: Analog Tools for Digital History
 author: "Kalani Craig"
 externalurl: http://www.netcreate.org
 embedurl: 
+group: research
 categories: [ Digital Tool Building, Digital Pedagogy ]
 tags: [  ]
 ---
