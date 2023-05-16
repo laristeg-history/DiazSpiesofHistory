@@ -40,9 +40,9 @@ My work as a digital historian since 2015 has led me to a research trajectory fo
 
 -->
 
-## Table of Contents
+# In this dossier
 
-- [Personal statement](/casestudy): An narrative of my research, teaching, and service trajectories encapsulated in a single-project case study
+- [Personal statement](/casestudy): An narrative of my research, teaching, and service trajectories
 - [Research](/research): A detailed overview of my research projects
 - [Teaching](/teaching): An exploration of digital-history methods in the classroom
 - [Service](/service): Contributions to the development of disciplinary expertise in digital humanities and digital history, and contributions to digital-history pedagogy programs

@@ -2,6 +2,7 @@
 layout: page
 title: "Curriculum Vitae"
 permalink: /CV/
+icon: fa-hashtag
 ---
 
 <div class="printonly">
@@ -153,6 +154,11 @@ kalani [at] kalanicraig.com
 {% for item in itemsSorted %}
 {% include _citation.html %}
 {% endfor %}{% assign previous_i = "" %}
+<h4 class="sans CV">Media Coverage</h4>
+{% assign itemsSorted = site.data.publications | where: 'section', 'Media Coverage' | sort: "date" | reverse %}
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
 </div>{% assign previous_i = "" %}
 
 <h3 class="subheadline">Teaching & Learning</h3>
@@ -221,13 +227,12 @@ kalani [at] kalanicraig.com
 	<div class="cell small-12 medium-6">
 	<ul>
 	<li>American Historical Association</li>
-	<li>Association for Computing and the Humanities</li>
 	<li>Medieval Academy of America</li>
+	<li>EPISCOPUS, Society for the Study of Bishops and Secular Clergy in the Middle Ages</li>
 	</ul>
 	</div>
 	<div class="cell small-12 medium-6">
 	<ul>
-	<li>EPISCOPUS, Society for the Study of Bishops and Secular Clergy in the Middle Ages</li>
 	<li>Society for Late Antiquity</li>
 	<li>Phi Alpha Theta</li>
 	</ul>

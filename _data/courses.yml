@@ -1,0 +1,195 @@
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Fall 2021'
+  coursesemesterid: 4218
+  courseid: ''
+  coursetype: 'Large online asynchronous course'
+  coursesize: 150
+  coursegradedist: "A%: 74.5; B%: 13.6; C%: 8.2; D%: 0"
+  coursegrading: 'Spec-grading weekly reflections and a student-driven creative adaptation of plague-history primary sources'
+  courseeval: 'Student feedback from the Fall 2020 pandemic semester kept the course on online-asynchronous mode, where student response was quite positive.'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Fall 2020'
+  coursesemesterid: 4208
+  courseid: ''
+  coursetype: 'Large online asynchronous course'
+  coursesize: 100
+  coursegradedist: "A%: 74.1; B%: 14.7; C%: 5.2; D%: 4.3"
+  coursegrading: 'Spec-grading weekly reflections and a student-driven creative adaptation of plague-history primary sources'
+  courseeval: 'Student feedback was positive, particularly given the remote-learning environment that was pandemic driven.'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'J400 Digital History'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Digital History for Undergraduates'
+  coursesemester: 'Spring 2021'
+  coursesemesterid: 4212
+  courseid: ''
+  coursetype: 'Small hybrid online/FTF senior research-methods course'
+  coursesize: 20
+  coursegradedist: "A%: 78.6; B%: 14.3; C%: 0; D%: 7.1"
+  coursegrading: 'Individual student-driven digital-history analysis and long-form written essay'
+  courseeval: ''
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Fall 2015'
+  coursesemesterid: 4158
+  courseid: '2015-08_H213'
+  coursetype: 'Large active-learning course'
+  coursesize: 70
+  coursegradedist: "A%: 51.4; B%: 30; C%: 14.3; D%: 2.9"
+  coursegrading: 'Individual argumentation essays'
+  courseeval: 'Student feedback was generally positive, though students struggled with the active-learning format in a fixed-lecture seating enfironment.'
+  courselearningoutcome: ''
+  courseimpact: 'This course housed both the first Black Death simulation study and the first iteration of Net.Create.'
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Fall 2016'
+  coursesemesterid: 4168
+  courseid: '2016-08_H213'
+  coursetype: 'Large active-learning course'
+  coursesize: 94
+  coursegradedist: "A%: 36.6; B%: 58.1; C%: 4.3; D%: 0"
+  coursegrading: 'Group posters'
+  courseeval: 'Student feedback was positive, with students excited about the use of the classroom space itself to support a variety of activities centered on discussion of primary sources and crafting a historical argumentation.'
+  courselearningoutcome: ''
+  courseimpact: 'This course was the first to explore the potential of a large active-learning classroom space.'
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Spring 2018'
+  coursesemesterid: 4182
+  courseid: '2018-01_H213'
+  coursetype: 'Large active-learning course'
+  coursesize: 91
+  coursegradedist: "A%: 61.2; B%: 24.7; C%: 11.8; D%: 2.4"
+  coursegrading: 'Group posters'
+  courseeval: 'Student feedback was positive, with students excited about the use of the classroom space itself to support a variety of activities centered on discussion of primary sources and crafting a historical argumentation.'
+  courselearningoutcome: ''
+  courseimpact: 'This course hosted the first internally funded Net.Create prototype study, which we used to refine our work in subsequent Net.Create classroom data collection.'
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Spring 2020'
+  coursesemesterid: 4202
+  courseid: '2020-01_H213'
+  coursetype: 'Large active-learning course'
+  coursesize: 96
+  coursegradedist: "A%: 84.3; B%: 14.6; C%: 0; D%: 1.1"
+  coursegrading: 'Group public-history exhibits and, post-COVID shutdown, a Net.Create network'
+  courseeval: 'Student feedback was positive, particularly given the closure of in-person courses in week 9 of the semester and a transition to remote learning.'
+  courselearningoutcome: ''
+  courseimpact: 'This course was set to host a large-scale Net.Create study focused on historical thinking; we pivoted after the COVID-19 shutdown to a publication focused on understanding how digital methods might support engagement in an emergency remote learning environment.'
+- course: 'H301 Digital History'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Digital History for Undergraduates'
+  coursesemester: 'Spring 2017'
+  coursesemesterid: 4172
+  courseid: '2017-01_H301'
+  coursetype: 'Small  intermediate-level research seminar'
+  coursesize: 14
+  coursegradedist: "A%: 75; B%: 25; C%: 0; D%: 0"
+  coursegrading: 'Individual micro-history-inspired digital-methods analysis included in group-produced web site'
+  courseeval: 'Student feedback was generally positive, though students struggled with the open-ended task of learning both digital method and historical thinking.'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'J300 Digital History'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Digital History for Undergraduates'
+  coursesemester: 'Fall 2017'
+  coursesemesterid: 4178
+  courseid: '2017-08_J300'
+  coursetype: 'Small writing-intensive course for general-education requirement'
+  coursesize: 15
+  coursegradedist: "A%: 50; B%: 35.7; C%: 7.1; D%: 0"
+  coursegrading: 'Individual object micro-history with digital-methods analysis and long-form written essay'
+  courseeval: 'Student feedback was generally positive, though students struggled with the open-ended task of learning both digital method and historical thinking.'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'H301 Digital History'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Digital History for Undergraduates'
+  coursesemester: 'Fall 2019'
+  coursesemesterid: 4198
+  courseid: '2019-08_H301'
+  coursetype: 'Small intermediate-level research seminar'
+  coursesize: 18
+  coursegradedist: "A%: 50; B%: 37.5; C%: 6.3; D%: 0"
+  coursegrading: 'Public-history community engagement web site paired with a group-based digital-methods analysis'
+  courseeval: 'Student feedback was positive, particularly about the community-engagement digitization project and the flexibility that students were afforded as they learned new digital-methods approaches to historical thinking.'
+  courselearningoutcome: 'Student analysis was well done and resulted in a public web site at https://historyharvest.indiana.edu/Fall2019/.'
+  courseimpact: ''
+- course: 'A200 Digital Public History'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Digital History for Undergraduates'
+  coursesemester: 'Spring 2019'
+  coursesemesterid: 4192
+  courseid: '2019-01_A200'
+  coursetype: 'Small first-year research seminar'
+  coursesize: 13
+  coursegradedist: "A%: 100; B%: 0; C%: 0; D%: 0"
+  coursegrading: 'Public-history community engagement web site with accompanying in-person exhibit and poster session'
+  courseeval: 'Student feedback was positive, particularly about the community-engagement digitization project and the applicability of course content and methods to their chosen majors.'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'B200 Medieval Saints and Sinners'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Medieval Survey'
+  coursesemester: 'Fall 2018'
+  coursesemesterid: 4188
+  courseid: '2018-08_B200'
+  coursetype: 'Mid-sized survey course'
+  coursesize: 29
+  coursegradedist: "A%: 69.6; B%: 30.4; C%: 0; D%: 0"
+  coursegrading: 'Individual timeline entries with group scaffolding, and individual historiography essays'
+  courseeval: 'Student feedback was REWRITE'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'H585 History in the Digital Age'
+  courselevel: 'Graduate'
+  coursegroup: 'Digital History for Graduate Students'
+  coursesemester: 'Fall 2019'
+  coursesemesterid: 4198
+  courseid: '2019-08_H585'
+  coursetype: 'Graduate colloquium (dual-enrollment with H301)'
+  coursesize: 9
+  coursegradedist: "A%: 100; B%: 0; C%: 0; D%: 0"
+  coursegrading: 'Public-history community engagement web site paired with a draft grant proposal'
+  courseeval: 'Student feedback was positive, particularly about the community-engagement digitization project and the flexibility that students were afforded as they learned new digital-methods approaches to historical thinking.'
+  courselearningoutcome: 'Student analysis was well done and resulted in a public web site at https://historyharvest.indiana.edu/Fall2019/.'
+  courseimpact: ''
+- course: 'H585 History in the Digital Age'
+  courselevel: 'Graduate'
+  coursegroup: 'Digital History for Graduate Students'
+  coursesemester: 'Spring 2017'
+  coursesemesterid: 4172
+  courseid: '2017-01_H585'
+  coursetype: 'Graduate colloquium (dual-enrollment with H301)'
+  coursesize: 2
+  coursegradedist: "Course too small for grade distribution reports."
+  coursegrading: 'Digital-methods analysis paper plus draft grant proposal'
+  courseeval: ''
+  courseimpact: ''
+- course: 'H585 History in the Digital Age'
+  courselevel: 'Graduate'
+  coursegroup: 'Digital History for Graduate Students'
+  coursesemester: 'Spring 2016'
+  coursesemesterid: 4162
+  courseid: '2016-01_H585'
+  coursetype: 'Graduate colloquium'
+  coursesize: 4
+  coursegradedist: "Course too small for grade distribution reports."
+  coursegrading: 'Digital-methods analysis paper plus draft grant proposal'
+  courseeval: ''
+  courselearningoutcome: ''
+  courseimpact: ''
+

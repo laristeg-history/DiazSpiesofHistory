@@ -1,8 +1,9 @@
 ---
 layout: item
-title: Analog Tools for Digital History
+title: Digital-History Scholarship of Teaching and learning
 author: "Kalani Craig"
-externalurl: http://www.netcreate.org
+shortdesc: Published scholarship on how students learn history through digital methods, and how students learn digital methods in the classroom, has shaped some of my DBHR practices by providing different audiences whose different historical training surfaces different digital-tool-design needs
+externalurl: 
 embedurl: 
 group: research
 categories: [ Digital Tool Building, Digital Pedagogy ]

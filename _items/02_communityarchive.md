@@ -1,7 +1,8 @@
 ---
 layout: item
-title: Digital Community Archiving
+title: Digital History Exhibit Platforms
 author: "Kalani Craig with IDAH, CRRES, Marisa Hicks Alcaraz and Jazma Sutton"
+shortdesc: My digital-tool design work for community archiving and digital exhibits speaks to a need to support archiving projects in a minimal-computing environment that requires limited expertise and money to set up and guides contributors through specific historical-thinking tasks. 
 externalurl: http://community-archive.kalanicraig.com
 embedurl: 
 group: research
@@ -9,24 +10,35 @@ categories: [ DBHR, Digital Tool Building, Digital Pedagogy, Digital Public Hist
 tags: [  ]
 ---
 
-History Harvests, Digital Community Archiving Abstract
+Every day, we make history. It’s in what we eat, what we say, what we post to social media. It’s also in our homes, our backpacks and our classrooms. My digital-tool design work for community archiving and digital exhibits speaks to a need to support archiving projects in a minimal-computing environment that requires limited expertise and money to set up and guides contributors through specific historical-thinking tasks. 
 
-### DBHR stages
+## A DBHR Accounting of my Digital Community Archiving Tool-Design work
 
-#### Past
+### My Role
 
-#### Current
+I worked to identify templating needs with ImaginX en Movimiento (IXeM) co-founded by Marisa Hicks-Alcaraz, the Center for Research on Race, Ethnicity and Society, the Asian Culture Center at Indiana University Bloomington, and Jazma Sutton and the Remembering Freedom descendant community in Greenville and Longtown, Ohio. With specific needs identified by these partners, plus several completed History Harvests (each of which experimented with features that the current ), I built a new version of the Community-Archive Jekyll Theme from scratch in winter and spring of 2022 and have revised it several times since in response to new and ongoing community-archive projects
 
-#### Future
+### Current Status
 
+The Community-Archive Jekyll Theme is free and available for use by any member of the public at https://community-archive.kalanicraig.com . A Quick-Start guide demonstrates its use.
 
-## Funding & publications
+### Future Plans
 
-- List
+In addition to historians and art historians outside of IU who have worked with the Community-Archive Jekyll Theme, I'm engaged in planning for several upcoming community-archive or digital-history-exhibit projects, which will provide several rounds of public-history-driven revisions with
+- La Casa (IU's Latine student organization which celebrates its 50th anniversary in October)
+- Asian Cultural Center (IU's Asian/Pacific Islander student organization which celebrates its 25th anniversary in October)
+- MARCH, a consortium of digital public historians and media-studies scholars in the Midwest seeking a grant from the NEH to hold a train-the-trainer community-archiving workshop in Summer of 2024
 
-## Examples 
+## Highlights & Examples
 
-- List
+- This dossier
+- https://idahatiu.github.io
+- https://homeboundatiu.github.io
 
+## Full Funding & Publication List
 
-
+<div class="posts grid-container">
+{% assign itemsSorted = site.data.publications | where: 'project', 'History Harvest' | sort: "date" | reverse %}
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}{% assign previous_i = "" %}
