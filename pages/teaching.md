@@ -35,5 +35,27 @@ The syllabi in this packet were originally structured as interactive web sites o
 
 From small to large classrooms, from teaching to research and back again, with an eye to assessing each course activity at a small scale, the "Living Syllabus" is emblematic on a small scale of how I look at the evolving framework of my teaching from semester to semester on a larger scale, so that even well-developed courses get a critical look each time I teach them.
 
-- View a [list of courses taught by chronological order](courselist){: data-info="url" target="_blank"}
-- View a set of [sample course materials and learning outcomes from B200](samplecoursematerials){: data-info="url" target="_blank"}
+<h3 class="subheadline">Courses Taught</h3>
+
+{% assign courses_grouped = site.data.courses | group_by: 'coursegroup' | sort: 'coursesemesterid' %}
+{% for group in courses_grouped %}
+<h3 style="margin-top: 12px;">{{group.name}}</h3>
+<table class="stack">
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Format</th>
+      <th>Assignments</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for item in group.items %}
+    <tr>
+      <td data-label="Semester">{% if item.courseid.size > 1 %}<a href="/courses/{{item.courseid}}">{% endif %}{{item.coursesemester}}{% if item.courseid.size > 1 %}</a>{% endif %}</td>
+      <td data-label="Format">{% if group.name == "Digital History for Undergraduates" or  group.name == "Medieval Survey" %}{{item.course}}: {% endif %}{{item.coursetype}}</td>
+      <td data-label="Short Desc">{{item.coursegrading}}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+{% endfor %}
