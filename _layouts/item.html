@@ -55,17 +55,6 @@ format: item
 {% endfor %}
 
 
-<div class="element-set">
-<h2 id="Dublin Core">More about this item</h2>
-<p class="quiet">Dublin Core</p>
-<table class="stack">
-<tr><td><div id="dublin-core-title" class="element">Title</div></td><td>{%if page.externalurl %}<a href="{{ page.externalurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.url %}</a>{% endif %}</td></tr>
-<tr><td><div id="dublin-core-description" class="element">Description</div></td><td><div class="element-text">{{ page.shortdesc }}</div></td></tr>
-<tr><td><div id="dublin-core-creator" class="element">Creator</div></td><td><div class="element-text">{{ page.creator }}</div></td></tr>
-<tr><td><div id="dublin-core-contributor" class="element">Contributor</div></td><td><div class="element-text">{{ page.contributor }}</div></td></tr>
-<tr><td><div id="dublin-core-date" class="element">Creation Date</div></td><td><div class="element-text">{{ page.creationdate }}</div></td></tr>
-</table>
-</div>
 
 <!-- {: .my-class } -->  
 
