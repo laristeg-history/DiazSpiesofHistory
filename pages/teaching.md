@@ -7,6 +7,31 @@ group: teaching
 
 # Teaching
 
+<h3 class="subheadline">Courses Taught</h3>
+
+{% assign courses_grouped = site.data.courses | group_by: 'coursegroup' | sort: 'coursesemesterid' %}
+{% for group in courses_grouped %}
+<h3 style="margin-top: 12px;">{{group.name}}</h3>
+<table class="stack">
+  <thead>
+    <tr>
+      <th>Semester</th>
+      <th>Format</th>
+      <th>Assignments</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for item in group.items %}
+    <tr>
+      <td data-label="Semester">{% if item.courseid.size > 1 %}<a href="/courses/{{item.courseid}}">{% endif %}{{item.coursesemester}}{% if item.courseid.size > 1 %}</a>{% endif %}</td>
+      <td data-label="Format">{% if group.name == "Digital History for Undergraduates" or  group.name == "Medieval Survey" %}{{item.course}}: {% endif %}{{item.coursetype}}</td>
+      <td data-label="Short Desc">{{item.coursegrading}}</td>
+    </tr>
+{% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+
 When I began teaching history, my primary goal was to help students understand the skills involved in historical practice as a way to accommodate, synthesize and intelligently use the ever-increasing volume of communication they deal with, both personally and professionally. The high-level critical thinking and analysis we employ to deconstruct, contextualize and synthesize primary and secondary sources can be used equally well in support of a historical argument, to analyze a voting choice, or to justify an important business decision. In an early course evaluation, though, a student expressed disappointment that my assignments were too focused on supporting an argument with evidence. While I was thrilled that the student felt comfortable using a newly learned historian's tool kit, I was also reminded that historical practice sometimes overshadows the wonder that comes with exploring a world full of new names, dates, and places. My ongoing teaching challenge is thus to both demonstrate the utility of historical practice and simultaneously communicate my awe of and enthusiasm for exploring the past.
 
 ## Curriculum development
@@ -35,27 +60,3 @@ The syllabi in this packet were originally structured as interactive web sites o
 
 From small to large classrooms, from teaching to research and back again, with an eye to assessing each course activity at a small scale, the "Living Syllabus" is emblematic on a small scale of how I look at the evolving framework of my teaching from semester to semester on a larger scale, so that even well-developed courses get a critical look each time I teach them.
 
-<h3 class="subheadline">Courses Taught</h3>
-
-{% assign courses_grouped = site.data.courses | group_by: 'coursegroup' | sort: 'coursesemesterid' %}
-{% for group in courses_grouped %}
-<h3 style="margin-top: 12px;">{{group.name}}</h3>
-<table class="stack">
-  <thead>
-    <tr>
-      <th>Semester</th>
-      <th>Format</th>
-      <th>Assignments</th>
-    </tr>
-  </thead>
-  <tbody>
-{% for item in group.items %}
-    <tr>
-      <td data-label="Semester">{% if item.courseid.size > 1 %}<a href="/courses/{{item.courseid}}">{% endif %}{{item.coursesemester}}{% if item.courseid.size > 1 %}</a>{% endif %}</td>
-      <td data-label="Format">{% if group.name == "Digital History for Undergraduates" or  group.name == "Medieval Survey" %}{{item.course}}: {% endif %}{{item.coursetype}}</td>
-      <td data-label="Short Desc">{{item.coursegrading}}</td>
-    </tr>
-{% endfor %}
-  </tbody>
-</table>
-{% endfor %}
