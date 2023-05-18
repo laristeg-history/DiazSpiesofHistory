@@ -1,3 +1,29 @@
+- course: 'H301 Digital History'
+  courselevel: 'Undergraduate'
+  coursegroup: 'Digital History for Undergraduates'
+  coursesemester: 'Spring 2022'
+  coursesemesterid: 4312
+  courseid: ''
+  coursetype: 'Small  intermediate-level research seminar'
+  coursesize: 14
+  coursegradedist: "A%: 75; B%: 25; C%: 0; D%: 0"
+  coursegrading: 'Individual micro-history-inspired digital-methods analysis included in group-produced web site'
+  courseeval: 'Student feedback was generally positive and several students went on to do digital-history hourly work with faculty after the semester ended.'
+  courselearningoutcome: ''
+  courseimpact: ''
+- course: 'H213 The Black Death'
+  courselevel: 'Undergraduate'
+  coursegroup: 'The Black Death'
+  coursesemester: 'Fall 2022'
+  coursesemesterid: 4318
+  courseid: ''
+  coursetype: 'Large online asynchronous course'
+  coursesize: 180
+  coursegradedist: "A%: 74.5; B%: 13.6; C%: 8.2; D%: 0"
+  coursegrading: 'Spec-grading weekly reflections and a student-driven creative adaptation of plague-history primary sources'
+  courseeval: 'Student feedback from the Fall 2020 pandemic semester kept the course on online-asynchronous mode, where student response was quite positive.'
+  courselearningoutcome: ''
+  courseimpact: ''
 - course: 'H213 The Black Death'
   courselevel: 'Undergraduate'
   coursegroup: 'The Black Death'

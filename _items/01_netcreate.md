@@ -10,7 +10,13 @@ categories: [ DBHR, Digital Tool Building, Digital Pedagogy ]
 tags: [  ]
 ---
 
+## About Net.Create
+
 Net.Create is an open-source network-analysis tool that offers simultaneous multi-user network-data entry, accommodates duplicate and ambiguous network data, provides live visualizations of up-to-the-minute entries from other team members, and is structured around historiographically driven citational and interpretive practices.
+
+## Net.Create as Historical Research
+
+While there are several research implications for historians documented in the *Journal of Digital History* article, "[Designing Our Digital Past: Anchoring Digital-History Tool Development in the Historical Method Through Design-Based History Research](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZrYWxhbmljcmFpZyUyRmRiaHJfamRoMjAyMyUyRm1hc3RlciUyRndvcmslMkZhdXRob3JfZ3VpZGVsaW5lX3RlbXBsYXRlLmlweW5i)", the single most important contribution Net.Create makes to digital-history research is in the preservation of citations and research notes. No other network analysis tool offers built-in citation preservation to its users. The connections documented in other network analysis tools can be analyzed but not traced back to the primary sources from which they came, and so Net.Create provides a historiographic-debate platform as well as a network-analysis platform.
 
 ## My Role
 
@@ -18,7 +24,15 @@ I started Net.Create as a solo researcher in Fall of 2015 and was responsible fo
 
 ## Current Status
 
-Net.Create is currently available for free for MacOS users or for ~$5/month at Digital Ocean. All of the features described in [The Journal of Digital History DBHR article](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZrYWxhbmljcmFpZyUyRmRiaHJfamRoMjAyMyUyRm1hc3RlciUyRndvcmslMkZhdXRob3JfZ3VpZGVsaW5lX3RlbXBsYXRlLmlweW5i) are included in the current version of Net.Create.
+Net.Create is currently available for free for MacOS users or for ~$5/month at Digital Ocean.
+
+All of the DBHR features described in the *Journal of Digital History* article, "[Designing Our Digital Past: Anchoring Digital-History Tool Development in the Historical Method Through Design-Based History Research](https://journalofdigitalhistory.org/en/notebook-viewer/JTJGcHJveHktZ2l0aHVidXNlcmNvbnRlbnQlMkZrYWxhbmljcmFpZyUyRmRiaHJfamRoMjAyMyUyRm1hc3RlciUyRndvcmslMkZhdXRob3JfZ3VpZGVsaW5lX3RlbXBsYXRlLmlweW5i)" are included in the current version of Net.Create.
+
+### Technical platform
+
+The current version of Net.Create uses NodeJS (v10.22.0) and React installed in either a MacOS environment or in a Digital Ocean droplet.
+
+- [Installation documentation]
 
 ## Future Plans
 

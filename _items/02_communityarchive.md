@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Digital History Exhibit Platforms
+title: Community Archive Digital Projects
 author: "Kalani Craig with IDAH, CRRES, Marisa Hicks Alcaraz and Jazma Sutton"
 shortdesc: My digital-tool design work for community archiving and digital exhibits speaks to a need to support archiving projects in a minimal-computing environment that requires limited expertise and money to set up and guides contributors through specific historical-thinking tasks. 
 externalurl: http://community-archive.kalanicraig.com
