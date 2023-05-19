@@ -50,7 +50,7 @@
 # Citation Preservation and Computational Linguistics, Computational Text Analysis, Digital History Pedagogy, Digital Humanities Professional Development, History Harvest, Medieval Conflict Resolution, Net.Create, 
 ################
 ### List of Tags
-# digital history tool building, new historical methods, network analysis, computational text analysis, minimal computing, digital public history, digital history professional development, digital history pedagogy, historical thinking, medieval history, latin american history, us history, late antique history, COVID
+# digital history tool building, new historical methods, network analysis, , minimal computing, digital public history, digital history professional development, digital history pedagogy, historical thinking, medieval history, latin american history, us history, late antique history, COVID
 ################
 ### Valid dates
 # date: YYYY-MM-DD
@@ -1706,7 +1706,7 @@
   group: "Digital History Publications"
   section: "Digital History Exhibits"
   type: ""
-  project: "History Harvest"
+  project: ""
   tag: "digital public history, minimal computing, digital history pedagogy"
   doi: ""
   link: "https://medieval.indiana.edu/globalpilgrimage/"

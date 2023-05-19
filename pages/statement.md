@@ -5,8 +5,34 @@ title: "Personal statement"
 icon: fa-folder-open
 ---
 
+<!--
+
 - TOC
 {:toc}
+
+-->
+
+<div class="quote-inline-wrap-article-content">
+
+  <div class="quote-inline-wrap">
+    <div class="quote-inline-testimonial">
+
+<h3>Table of Contents</h3>
+<ul id="markdown-toc">
+  <li><a href="#research-digital-history-tool-and-methods-design" id="markdown-toc-research-digital-history-tool-and-methods-design">Research: Digital-History Tool and Methods Design</a>    <ul>
+      <li><a href="#network-analysis-tool-design-as-historiography" id="markdown-toc-network-analysis-tool-design-as-historiography">Network Analysis Tool Design as Historiography</a></li>
+      <li><a href="#design-based-history-research-as-public-history" id="markdown-toc-design-based-history-research-as-public-history">Design-Based History Research as public history</a></li>
+      <li><a href="#design-based-history-research-in-digital-history-method-development" id="markdown-toc-design-based-history-research-in-digital-history-method-development">Design-Based History Research in digital-history method development</a></li>
+    </ul>
+  </li>
+  <li><a href="#teaching" id="markdown-toc-teaching">Teaching</a></li>
+  <li><a href="#service" id="markdown-toc-service">Service</a></li>
+  <li><a href="#a-coda-or-whats-next" id="markdown-toc-a-coda-or-whats-next">A coda (or: “What’s next?”)</a></li>
+</ul>
+ 
+    </div>
+  </div>
+</div>
 
 Like all historians, I'm interested in the stories people tell that help document change and continuity over time. Like most *digital* historians, I explore these stories using a variety of digital tools and new methods. In some cases, I'm interested in big-data approaches  to analysis; digital tools support networks, maps and computational text analysis and help historians find patterns, fill gaps, and look for new questions in historical documents. I also work with interactive modes of presentation; these digital tools afford historians new ways to present historical scholarship and to engage with new publics.
 

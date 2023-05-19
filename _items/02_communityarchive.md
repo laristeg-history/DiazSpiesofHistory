@@ -16,11 +16,13 @@ Every day, we make history. It’s in what we eat, what we say, what we post to 
 
 ### My Role
 
-I worked to identify templating needs with ImaginX en Movimiento (IXeM) co-founded by Marisa Hicks-Alcaraz, the Center for Research on Race, Ethnicity and Society, the Asian Culture Center at Indiana University Bloomington, and Jazma Sutton and the Remembering Freedom descendant community in Greenville and Longtown, Ohio. With specific needs identified by these partners, plus several completed History Harvests (each of which experimented with features that the current ), I built a new version of the Community-Archive Jekyll Theme from scratch in winter and spring of 2022 and have revised it several times since in response to new and ongoing community-archive projects
+I worked to identify templating needs with ImaginX en Movimiento (IXeM) co-founded by Marisa Hicks-Alcaraz, the Center for Research on Race, Ethnicity and Society, the Asian Culture Center at Indiana University Bloomington, and Jazma Sutton and the Remembering Freedom descendant community in Greenville and Longtown, Ohio. Feedback from partners, and observations made over several completed History Harvests, generated a list of features that would encourage historical thinking, thoughtful archival practices, and community contributions.
+
+I used that list to build a new version of the Community-Archive Jekyll Theme from scratch in winter and spring of 2022. Since then, I have revised it several times in response to new and ongoing community-archive projects, digital exhibits, and other related public history needs, *including this dossier*.
 
 ### Current Status
 
-The Community-Archive Jekyll Theme is free and available for use by any member of the public at https://community-archive.kalanicraig.com . A Quick-Start guide demonstrates its use.
+The Community-Archive Jekyll Theme is free and available for use by any member of the public at https://community-archive.kalanicraig.com . A Quick-Start guide demonstrates its use and theme documentation provides more detail for digital historians and digital humanists seeking to customize the theme.
 
 ### Future Plans
 
@@ -31,7 +33,7 @@ In addition to historians and art historians outside of IU who have worked with 
 
 ## Highlights & Examples
 
-- This dossier
+- This dossier!
 - https://idahatiu.github.io
 - https://homeboundatiu.github.io
 
