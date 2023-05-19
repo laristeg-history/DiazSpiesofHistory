@@ -13,6 +13,30 @@
 	font-size: 1rem; }
 }
 
+.flexible-article-image-right {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 40%;
+}
+
+.flexible-article-image-right .caption {
+  font-size: 0.9rem;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .flexible-article-image-right {
+    float: none;
+    max-width: 100%;
+    margin: 0;
+  }
+  .flexible-article-image-right .thumbnail {
+    width: 100%;
+  }
+  .flexible-article-image-right .thumbnail img {
+    width: 100%;
+  }
+}
+
 .quote-inline-wrap-article-content {
   max-width: 100%;
   position: relative;
