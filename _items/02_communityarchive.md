@@ -12,13 +12,28 @@ tags: [  ]
 
 Every day, we make history. It’s in what we eat, what we say, what we post to social media. It’s also in our homes, our backpacks and our classrooms. My digital-tool design work for community archiving and digital exhibits speaks to a need to support archiving projects in a minimal-computing environment that requires limited expertise and money to set up and guides contributors through specific historical-thinking tasks. 
 
-## A DBHR Accounting of my Digital Community Archiving Tool-Design work
+## Digital Community Engagement as Historical Research
+
+My work in digital community archiving started in the classroom, as part of a curricular-development project focused on undergraduate research experiences. In early 2019, I led a classroom of first-year researchers through the process of a History Harvest. That, in turn, led to a series of questions about the tools most commonly used for History Harvests.
+
+The two primary considerations for an ethically shaped community archive are the archive's longevity, and community control and ownershiip of an archive. Both shape the access future historians have to community-driven archives, the former by making access over a longer term possible and the latter by shaping future historians' work based on community-driven principles of what should and should not be preserved. The latter makes it more likely that communities will fully engage with the interpretation and preservation of their own history.
+
+With these disciplinary considerations in mind, I applied my experience with Net.Create's DBHR process to the evaluation of community archiving workflows and identified several community and researcher needs:
+- a low-cost approach to physical preservation tasks. A photo lightbox made of cardboard, tissue paper, and desk lamps made it possible to use smartphones instead of expensive DSLRs. This made preservation of more objects more likely.
+- a low-cost approach to the web-site creation portion of a digital exhibit. This makes for a more stable archive and a larger archive (since larger web sites with more images are often associated with higher costs)
+- a long-term digital-preservation strategy that results in a static site rather than a dynamically generated site. In less technical terms, that means a site that doesn't use databases or heavy programming to generate the page for each item in a community archive. Static sites have a much longer life span and are less likely to need regular updates to be maintain their legibility.
+
+I worked to identify templating needs with the Center for Research on Race, Ethnicity and Society, the Asian Culture Center at Indiana University Bloomington, Jazma Sutton and the Remembering Freedom descendant community in Greenville and Longtown, Ohio, and ImaginX en Movimiento (IXeM, co-founded by Marisa Hicks-Alcaraz). Feedback from these, and other, partners, and observations made over several completed History Harvests, allowed for the revision of these tool features and workflow approaches that would encourage historical thinking, thoughtful archival practices, and community contributions.
+
+Jekyll AND GITHUB PAGE EXPLANATION HERE
 
 ### My Role
 
-I worked to identify templating needs with ImaginX en Movimiento (IXeM) co-founded by Marisa Hicks-Alcaraz, the Center for Research on Race, Ethnicity and Society, the Asian Culture Center at Indiana University Bloomington, and Jazma Sutton and the Remembering Freedom descendant community in Greenville and Longtown, Ohio. Feedback from partners, and observations made over several completed History Harvests, generated a list of features that would encourage historical thinking, thoughtful archival practices, and community contributions.
+I adapted an existing static-site template XXXX and used Jekyll and Github Pages to generate a digital-exhibit website for the first-year-research-project History Harvest in Spring of 2019. I then revised that theme adaptation in Fall of 2019, with the spring 2019 and a summer user-group test in mind. A third theme adaptation in Spring of 2020 to begin the Remembering Freedom web site, provided a clear platform for testing and an initial list of revision needs.
 
-I used that list to build a new version of the Community-Archive Jekyll Theme from scratch in winter and spring of 2022. Since then, I have revised it several times in response to new and ongoing community-archive projects, digital exhibits, and other related public history needs, *including this dossier*.
+One primary revision priority came out of those three initial tests. Our adaptation of an existing website theme allowed us to buildi digital-exhibit information requirements for metadata, oral histories, and argument-driven histories into a digital exhibit. However, these themes were overly complex because they were designed to serve any website need any random internet user might have. In order to provide a digital-exhibit platform anyone could use, we needed something purpose-built for community histories.
+
+I started building a Community-Archive Jekyll Theme template from scratch in winter of 2022 and completed a test version in early summer of 2022. In the year since, , I have revised it three times in response to new and ongoing community-archive projects, digital exhibits, and other related public history needs, *including this dossier*.
 
 ### Current Status
 
