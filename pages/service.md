@@ -5,9 +5,9 @@ permalink: /service
 group: service
 ---
 
-# Service
+Outside of the integrated teaching-and-research service that takes the form of workshops and consulting, providing digital-methods service to the Department of History means making space, both literally and figuratively, for digital arts and humanities methods at a departmental, campus and national/international level in a variety of service writing and committee environments. 
 
-Outside of the integrated teaching-and-research service that takes the form of workshops and consulting, providing digital-methods service to the Department of History means making space, both literally and figuratively, for digital arts and humanities methods at a departmental, campus and national/international level in a variety of service writing and committee environments.
+The most substantive of my services activities, as the Co-Director of IUB's Institute for Digital Arts and Humanities, has also been a platform for developing new research projects of my own and identifying research partnerships with other faculty both here at IUB and elsewhere.
 
 ## Service to the discipline
 
@@ -17,13 +17,22 @@ A number of outside service projects bring my digital-methods expertise from IU 
 
 My service to the the field also includes peer-review and peer-contribution work in a number of forums. In 2016 and 2019, I was invited to join review panels for the NEH's Office of Digital Humanities. I also provided a [book review of *The Digital Humanities: A Primer for Students and Scholars*](https://scholarworks.iu.edu/journals/index.php/tmr/article/view/22950){: data-info="url" target="_blank"} for The Medieval Review and a review of Bookworm for the Journal of American History (Journal of American History, Volume 105, Issue 1, June 2018, Pages 244–247, [https://doi.org/10.1093/jahist/jay139](https://doi.org/10.1093/jahist/jay139){: data-info="url" target="_blank"}). As an advisory board member for or partner in nationally funded grants that include [Always Already Computational: Collections as Data](https://collectionsasdata.github.io/partners/){: data-info="url" target="_blank"} and [DataScribe](https://securegrants.neh.gov/publicquery/main.aspx?f=1&gn=HAA-266444-19){: data-info="url" target="_blank"}, I can stay connected to changing trends in the world of digital humanities and contribute to the direction in which those trends develop.
 
-[![Episcopus Brevia]({{ site.baseurl }}/assets/img/dossier/Brevia.png "Episcopus Brevia"){:.intextright}](https://twitter.com/EPISCOPUSorg/status/1127216243063148544)
+<div class="flexible-article-image-right">
+<div class="thumbnail" markdown="1" >
+[![Episcopus Brevia]({{ site.baseurl }}/assets/img/Brevia.png "Episcopus Brevia"){:.intextright}](https://twitter.com/EPISCOPUSorg/status/1127216243063148544)
+</div>
+</div>
 
 Finally, I also offer communications expertise to several national and international academic societies in the realm of medieval studies. One highlight of this experience was bringing Brevia, a panel of short lightning talks designed to make space for nascent scholarship that could be developed in formal conversation at the International Congress on Medieval Studies in Kalamazoo, MI, to Episcopus, an organization that promotes the study of bishops and secular clergy in the Middle Ages. We developed these Brevia as the first step in encouraging open, generous scholarship in a conference setting with the idea that longer papers and articles developed out of Brevia would garner long-term support from Episcopus' board, for which I have been the communications chair since 2012. We took advantage of this format to offer virtual presentations to presenters whose 2020 papers were postponed to the 2021 conference, and we are currently shifting our society's priorities to support the long-term development of scholarship by contingent faculty and graduate students into conference panels on medieval bishops and secular clergy in both published and virtual-conference form. I was also the communications chair for the 2021 Medieval Academy of America, which was hosted remotely from the IUB campus.
 
 ## Service to the public
 
-![Kinetic Sandbox]({{ site.baseurl }}/assets/img/dossier/KineticSandboxSketch.png "Kinetic Sandbox"){:.intextright}
+<div class="flexible-article-image-right">
+<div class="thumbnail" markdown="1" >
+![Kinetic Sandbox]({{ site.baseurl }}/assets/img/KineticSandboxSketch.png "Kinetic Sandbox")
+</div>
+</div>
+
 
 One of the more exciting service opportunities that presented itself was the chance to help design an exhibit as part of the Mather's Museum of Art's [800 Season's exhibit](https://eri.iu.edu/research/communication-education-and-outreach/800-seasons-exhibit.html){:data-info="url" target="_blank"}, an offshoot of IU's [Environmental Change Grand Challenge](https://eri.iu.edu/who-we-work-with/index.html){:data-info="url"} in partnership with Eric Sandweiss, Theresa Quill, Matt Sieber, Sarah Hatcher and others. Our project revolved around a "kinetic sandbox" that uses the live movement capture of Microsoft's X-Box platform to track the height of sand in a sandbox and project live topographical outlines, complete with colors, onto the sandbox as the user shifts the sand around into different formations. We wanted exhibit visitors to understand how water shapes the human experience in a local context, so we built two activities that asked visitors to get their hands dirty (or at least sandy) in the service of rebuilding Bloomington in a sandbox. The first provided a map of 1910 Bloomington with only topographical lines and asked visitors to try to recreate that topography in the sand; a reveal map showed them how close their sand-scape was to the reality of Bloomington and asked them where the flooding might happen during heavy rains, with the idea that they would take a better idea of how to read maps out of the exercise. The second map showed them a pre-World-War-II map and asked them to predict where a man-made reservoir now lies by digging out the map and looking at where the kinetic-sandbox projection showed water collecting, with the idea that we could impart some water-engineering understanding to visitors.
 

@@ -28,20 +28,6 @@ format: item
 {% elsif ItemPhotoResult %}
 <img class="article-image float-right thumbnail" src="{{ ItemPhotoResult }}" alt="{{ page.title }}""/>{% endif %}
 
-{% if page.contributor %}<h2>Object contributed by {{ page.contributor }}</h2>{% endif %}
-
-{% if page.contributorquote %}<q class="pull-quote">"{{ page.contributorquote }}"</q>{% endif %}
-
-{% if page.creator %}<h4>Originally created by {{ page.creator }}</h4>{% endif %}
-
-{% if page.externalurl %}<p>Find out more at {{ page.externalurl }}{% endif %}
-
-{% if page.embedurl %}<p>EMBED ME {{ page.embedurl }}{% endif %}
-
-{% if page.format == "media" %}<p>{{ page.embedurl }}{% endif %}
-
-{% if page.teammember %}<p>Assistance collecting this object by {{ page.teammember }}</p>{% endif %}
-
 {{ content }}
 
 {% capture ItemImagePath %}{{ urlitemimg }}{{ ItemID }}{% endcapture %}

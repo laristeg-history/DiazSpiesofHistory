@@ -12,7 +12,7 @@ tags: [  ]
 
 ## About Net.Create
 
-Net.Create is an open-source network-analysis tool that offers simultaneous multi-user network-data entry, accommodates duplicate and ambiguous network data, provides live visualizations of up-to-the-minute entries from other team members, and is structured around historiographically driven citational and interpretive practices.
+Net.Create is an open-source network-analysis tool that offers simultaneous multi-user network-data entry, accommodates duplicate and ambiguous network data, provides live visualizations of up-to-the-minute entries from other team members, and is structured around historiographically driven citational and interpretive practices. 
 
 ## Net.Create as Historical Research
 
@@ -49,10 +49,13 @@ Net.Create's next steps include another series of grant-funded features identifi
 
 ## Examples of Net.Create in use
 
-- http://theraptlab.org/projects/netcreate_examples
-- https://camullenphd.github.io
+- http://theraptlab.org/projects/netcreate_examples <!--explain-->
+- https://camullenphd.github.io <!--explain-->
+- http://samplenetworks.kalanicraig.com/?dataset=gesta#/ <!--explain-->
 
 ## Full Funding & Publication List
+
+Net.Create has been funded by NSF awards #[1848655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848655) and #[2241705](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241705) and by Lumina Foundation.
 
 <div class="posts grid-container">
 {% assign itemsSorted = site.data.publications | where: 'project', 'Net.Create' | sort: "date" | reverse %}
