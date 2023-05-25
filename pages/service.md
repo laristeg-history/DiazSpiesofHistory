@@ -5,7 +5,9 @@ permalink: /service
 group: service
 ---
 
-Outside of the integrated teaching-and-research service that takes the form of workshops and consulting, providing digital-methods service to the Department of History means making space, both literally and figuratively, for digital arts and humanities methods at a departmental, campus and national/international level in a variety of service writing and committee environments. 
+The division between my service, teaching, and research is somewhat blurred when it takes the form of professional-development instruction and consulting for faculty and graduate students who have begun to explore digital methods in their own research and in their classrooms. I incorporate lessons from my tool building and digital-history pedagogy research into invited and research-conference talks, structured workshops, and consulting practices. These events help other faculty and graduate students hone their digital-methods approaches in disciplinary-specific ways. Over the years, many of these connections have become fully-fledged research collaborations, a pattern which I hope to continue in the future.
+
+Outside of the integrated teaching-and-research service that takes the form of workshops and consulting, providing digital-methods service to IU Bloomington and to the Department of History means making space, both literally and figuratively, for digital arts and humanities methods at a departmental, campus and national/international level in a variety of service writing and committee environments. By contributing these professional-development and digital-humanities training opportunities, I can help bring perspectives on developing digital-methods expertise from the Department of History and IDAH to a broader audience outside of IU.
 
 The most substantive of my services activities, as the Co-Director of IUB's Institute for Digital Arts and Humanities, has also been a platform for developing new research projects of my own and identifying research partnerships with other faculty both here at IUB and elsewhere.
 

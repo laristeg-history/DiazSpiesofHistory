@@ -20,27 +20,22 @@ format: item
 	{% endfor %}
 {% endif %}
 
-
 {% if page.embedurl %}
 <div class="responsive-embed">
-  <iframe width="420" height="315" src="{{ page.embedurl }}" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="{{ page.embedurl }}" frameborder="0" allowfullscreen></iframe>
 </div>
 {% elsif ItemPhotoResult %}
-<img class="article-image float-right thumbnail" src="{{ ItemPhotoResult }}" alt="{{ page.title }}""/>{% endif %}
+<img class="article-image float-right thumbnail" src="{{ ItemPhotoResult }}" alt="{{ page.title }}"/>
+{% endif %}
+{% if page.shortdesc %}
+
+<h2>About {{page.title}}</h2>
+
+<p>{{page.shortdesc}}</p>
+
+{% endif %}
 
 {{ content }}
-
-{% capture ItemImagePath %}{{ urlitemimg }}{{ ItemID }}{% endcapture %}
-{% for static_file in site.static_files %}
-{% if static_file.path contains ItemImagePath %}
-{% unless static_file.path contains '_th' %}
-{% capture ItemPhotoResult %}{{site.baseurl}}{{static_file.path}}{% endcapture %}
-<img class="featured-image img-fluid" src="{{ ItemPhotoResult }}" alt="{{ page.title }}">
-{% endunless %}
-{% endif %}
-{% endfor %}
-
-
 
 <!-- {: .my-class } -->  
 

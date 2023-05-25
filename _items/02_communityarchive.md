@@ -6,7 +6,7 @@ shortdesc: My digital-tool design work for community archiving and digital exhib
 externalurl: http://community-archive.kalanicraig.com
 embedurl: 
 group: research
-categories: [ DBHR, Digital Tool Building, Digital Pedagogy, Digital Public History ]
+categories: [ Large Scale, Past, Current, Future ]
 tags: [  ]
 ---
 
@@ -19,13 +19,12 @@ My work in digital community archiving started in the classroom, as part of a cu
 The two primary considerations for an ethically shaped community archive are the archive's longevity, and community control and ownershiip of an archive. Both shape the access future historians have to community-driven archives, the former by making access over a longer term possible and the latter by shaping future historians' work based on community-driven principles of what should and should not be preserved. The latter makes it more likely that communities will fully engage with the interpretation and preservation of their own history.
 
 With these disciplinary considerations in mind, I applied my experience with Net.Create's DBHR process to the evaluation of community archiving workflows and identified several community and researcher needs:
+
 - a low-cost approach to physical preservation tasks. A photo lightbox made of cardboard, tissue paper, and desk lamps made it possible to use smartphones instead of expensive DSLRs. This made preservation of more objects more likely.
 - a low-cost approach to the web-site creation portion of a digital exhibit. This makes for a more stable archive and a larger archive (since larger web sites with more images are often associated with higher costs)
 - a long-term digital-preservation strategy that results in a static site rather than a dynamically generated site. In less technical terms, that means a site that doesn't use databases or heavy programming to generate the page for each item in a community archive. Static sites have a much longer life span and are less likely to need regular updates to be maintain their legibility.
 
 I worked to identify templating needs with the Center for Research on Race, Ethnicity and Society, the Asian Culture Center at Indiana University Bloomington, Jazma Sutton and the Remembering Freedom descendant community in Greenville and Longtown, Ohio, and ImaginX en Movimiento (IXeM, co-founded by Marisa Hicks-Alcaraz). Feedback from these, and other, partners, and observations made over several completed History Harvests, allowed for the revision of these tool features and workflow approaches that would encourage historical thinking, thoughtful archival practices, and community contributions.
-
-Jekyll AND GITHUB PAGE EXPLANATION HERE
 
 ### My Role
 
@@ -46,16 +45,82 @@ In addition to historians and art historians outside of IU who have worked with 
 - Asian Cultural Center (IU's Asian/Pacific Islander student organization which celebrates its 25th anniversary in October)
 - MARCH, a consortium of digital public historians and media-studies scholars in the Midwest seeking a grant from the NEH to hold a train-the-trainer community-archiving workshop in Summer of 2024
 
-## Highlights & Examples
+## Examples of Version 4.0 (beta) in action
+
+Release of version 4.0 is scheduled for late summer 2023, after comprehensive pilot testing in the IDAH Summer Incubator and full theme documentation development.
 
 - This dossier!
 - https://idahatiu.github.io
 - https://homeboundatiu.github.io
 
 ## Full Funding & Publication List
+{: .subheadline }
 
+{% assign itemsProject = site.data.publications | where: 'project', 'History Harvest' %}
+
+{% assign itemsSorted = itemsProject | where: 'section', 'Grants' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Grants</h3>
 <div class="posts grid-container">
-{% assign itemsSorted = site.data.publications | where: 'project', 'History Harvest' | sort: "date" | reverse %}
 {% for item in itemsSorted %}
 {% include _citation.html %}
-{% endfor %}{% assign previous_i = "" %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+</div>
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'group', 'Digital History Publications' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Digital History Publications</h3>
+<div class="posts grid-container">
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+</div>
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'group', 'Text-Based Publications' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Text Based Publications</h3>
+<div class="posts grid-container">
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+</div>
+{% endif %}
+
+{% assign itemsSection = itemsProject | where: 'group', 'Presentations' | sort: "date" | reverse %}
+{% if itemsSection and itemsSection.size != 0 %}
+<h3>Presentations</h3>
+<div class="posts grid-container">
+{% assign itemsSorted = itemsProject | where: 'section', 'Peer-reviewed Conference Proceedings' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Peer-reviewed Conference Proceedings</h3>
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'section', 'Invited Talks & Workshops' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Invited Talks & Workshops</h3>
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'section', 'Conference Presentations' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Conference Presentations</h3>
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+{% endif %}
+</div>
+{% endif %}
+

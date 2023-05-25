@@ -11,7 +11,7 @@
 # 	Digital History Exhibits
 # 	Digital History Tools
 # 
-# Print Publications
+# Text-Based Publications
 # 	Refereed Articles
 # 	Book Chapters
 # 	Book Reviews
@@ -46,11 +46,9 @@
 ### Project Names
 # Citation Preservation and Computational Linguistics, Computational Text Analysis, Digital History Pedagogy, Digital Humanities Professional Development, History Harvest, Medieval Conflict Resolution, Net.Create, 
 ################
-### CV Groups and Sections
-# Citation Preservation and Computational Linguistics, Computational Text Analysis, Digital History Pedagogy, Digital Humanities Professional Development, History Harvest, Medieval Conflict Resolution, Net.Create, 
 ################
 ### List of Tags
-# digital history tool building, new historical methods, network analysis, , minimal computing, digital public history, digital history professional development, digital history pedagogy, historical thinking, medieval history, latin american history, us history, late antique history, COVID
+# digital history tool building, new historical methods, network analysis, minimal computing, digital public history, digital history professional development, digital history pedagogy, historical thinking, medieval history, latin american history, us history, late antique history, COVID
 ################
 ### Valid dates
 # date: YYYY-MM-DD
@@ -734,7 +732,7 @@
   group: "Presentations"
   section: "Conference Presentations"
   type: ""
-  project: "Digital Humanities Professional Development"
+  project: "Computational Text Analysis"
   tag: "network analysis, computational text analysis, new historical methods"
   doi: ""
   link: ""

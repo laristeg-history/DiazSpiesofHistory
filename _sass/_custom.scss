@@ -93,11 +93,13 @@
   color: #8a8a8a;
 }
 
-@media screen and (max-width: 42.9375em) {
+@media screen and (max-width: 39.9375em) {
   .quote-inline-wrap {
     width: 100%;
     float: none;
     display: block;
+ 	max-width: 39.9375rem;
+    border-left: 0px;
   }
 }
 

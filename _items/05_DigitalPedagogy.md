@@ -6,7 +6,7 @@ shortdesc: Published scholarship on how students learn history through digital m
 externalurl: 
 embedurl: 
 group: research
-categories: [ Digital Tool Building, Digital Pedagogy ]
+categories: [ Small Scale, Past, Current, Future ]
 tags: [  ]
 ---
 
@@ -18,14 +18,76 @@ First, history students are often learning history and digital tools in parallel
 
 Second, classrooms offer larger-scale pilot testing environments. A digital tool that can support 100 students easily will function far more effectively for small teams of historians than a digital tool that has had limited testing on a smaller scale.
 
-## Funding & publications
+## Full Funding & Publication List
+{: .subheadline }
 
+{% assign itemsProject = site.data.publications | where: 'project', 'Digital History Pedagogy' | sort: "date" | reverse %}
+
+{% assign itemsSorted = itemsProject | where: 'section', 'Grants' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Grants</h3>
 <div class="posts grid-container">
-{% assign itemsSorted = site.data.publications | where: 'project', 'Digital History Pedagogy' | sort: "date" | reverse %}
 {% for item in itemsSorted %}
 {% include _citation.html %}
-{% endfor %}{% assign previous_i = "" %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
 </div>
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'group', 'Digital History Publications' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Digital History Publications</h3>
+<div class="posts grid-container">
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+</div>
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'group', 'Text-Based Publications' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Text Based Publications</h3>
+<div class="posts grid-container">
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+</div>
+{% endif %}
+
+{% assign itemsSection = itemsProject | where: 'group', 'Presentations' | sort: "date" | reverse %}
+{% if itemsSection and itemsSection.size != 0 %}
+<h3>Presentations</h3>
+<div class="posts grid-container">
+{% assign itemsSorted = itemsProject | where: 'section', 'Peer-reviewed Conference Proceedings' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Peer-reviewed Conference Proceedings</h3>
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'section', 'Invited Talks & Workshops' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Invited Talks & Workshops</h3>
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+{% endif %}
+
+{% assign itemsSorted = itemsProject | where: 'section', 'Conference Presentations' | sort: "date" | reverse %}
+{% if itemsSorted and itemsSorted.size != 0 %}
+<h3>Conference Presentations</h3>
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
+{% assign previous_i = "" %}{% assign itemsSorted = nil %}
+{% endif %}
+</div>
+{% endif %}
 
 ## Examples 
 
