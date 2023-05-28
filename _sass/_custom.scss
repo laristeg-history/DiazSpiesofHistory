@@ -17,6 +17,12 @@
     .screen-only    {
         display: none !important;
     }
+    .grid-margin-x  .card {
+        width: 100%;
+    }
+	.print-only .card-thumbnail .thumbnail {
+        width: calc(33% - .875rem);
+    }
 }
 
 @media screen {

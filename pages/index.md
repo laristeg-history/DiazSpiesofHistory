@@ -55,7 +55,21 @@ My research has been supported by $2.25 million in grant funding (2 NSF and 2 pr
 
 Several in-progress projects extend one or more of the 4 strands of my research. The first fully integrates the collaborative work that Mixed-Method Approaches to Collaborative History has enabled, the humanities-focused network analysis that Net.Create offers, and my digital-humanities capacity-building research; planning for this Net.Create grant started in May of 2023 for a planned submission in October of 2023. The second is to take version 4.0 of the Community-Archive Template, which will be complete by the end of summer 2023, into new communities; two such community-archiving days are already scheduled for late October 2023 and I'm leading a team of historians, digital humanists, and librarians submitting an NSF Office of Digital Humanities Institute-of-Advanced Studies grant due for submission in August of 2023. Finally, I'm aiming to move the Global Middle Ages Pilgrimage out of IUB's web platform and into an independent digital-public-history exhibit using an adapted version of the Community-Archive Template, bringing my medieval and digital-public-history skillsets together to make a scholar-sourcing platform for a new Global Middle Ages Pilgrimage that can be modified, adapted, added to, and localized for anyone interested in making medieval studies more publicly accessible.
 
+<div class="print-only" markdown="1">
+
+### About this format
+{: .subheadline }
+
+> Digital scholarship should be evaluated in its native digital medium, not printed out for inclusion in review materials. &mdash;The American Historical Association's [*Guidelines for the Professional Evaluation of Digital Scholarship by Historians*](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians){:target="_blank"}
+
+I invite you to explore the digital-history scholarship in this interactive personal statement through **in-text representative samples** of **public-facing supporting documents** in the form of embedded links, screen captures, multimedia and interactive content.
+
+***Representative samples of documents** with **confidential information,** (solicited letters for teaching and service, course evaluations, internal university documents, email with contact information other than my own) were made available to external reviewers via a shared-document folder and are in IU's eDossier system.*
+
+</div>
+
 ### Acknowledgements
+{: .subheadline }
 
 Thanks to the American Historical Association for their [Guidelines for the Professional Evaluation of Digital Scholarship by Historians](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians), which ask historians to "consider new modes and forms of intellectual work within the discipline and to expand their understanding of what constitutes the discipline accordingly…, including new digital short-form genres such as blogs, social media or multimedia storytelling, developing and using new pedagogical methods, participating in strong activist forms of open-access distribution of scholarly work, or creating digital platforms and tools as alternative modalities of scholarly production."
 
