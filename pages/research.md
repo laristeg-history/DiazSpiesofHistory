@@ -5,7 +5,7 @@ permalink: /research
 group: research
 ---
 
-research takes four primary forms:
+My research takes four primary forms:
 
 1. digital-tool and historical-method design with a variety of partners
 1. analytical digital-history projects in collaboration with other historians using digital tools and methods
