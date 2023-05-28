@@ -1,3 +1,30 @@
+@media print {
+	body {
+	  margin: 10mm 10mm 10mm 10mm;
+	  font-size: 10pt;
+	}
+	h1, h2, h3, h4, h5, h6
+		{ page-break-after: avoid; }
+    h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
+		content: "";
+		display: block;
+		height: 100px;
+		margin-bottom: -100px;
+	}
+	.footer-author-section    {
+        display: none !important;
+    }
+    .screen-only    {
+        display: none !important;
+    }
+}
+
+@media screen {
+	.print-only {
+        display: none !important;
+	}
+}
+
 @media screen and (min-width: 40em) {
   h1, .h1 {
 	font-size: 2rem; }
@@ -11,6 +38,22 @@
 	font-size: 1.15rem; }
   h6, .h6 {
 	font-size: 1rem; }
+}
+
+.button-img {
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.button, .button.disabled, .button[disabled], .button.disabled:hover, .button[disabled]:hover, .button.disabled:focus, .button[disabled]:focus {
+    background-color: $dark-bg;
+    color: $dark-text-color;
+}
+
+.button:hover, .button:focus {
+    background-color: $accent-bg;
+    color: $accent-text-color;
 }
 
 .flexible-article-image-right {
@@ -102,4 +145,3 @@
     border-left: 0px;
   }
 }
-

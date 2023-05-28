@@ -45,14 +45,18 @@ Net.Create's next steps include another series of grant-funded features identifi
 
 ## Examples of Net.Create in use
 
-- http://theraptlab.org/projects/netcreate_examples <!--explain-->
-- https://camullenphd.github.io <!--explain-->
-- http://samplenetworks.kalanicraig.com/?dataset=gesta#/ <!--explain-->
+<div>
+<iframe width="560" height="315" class="float-right" title="Networks Walkthrough" src="https://purl.dlib.indiana.edu/iudl/media/484z50pp8n?urlappend=%2Fembed" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+- [The Power of the Popular](https://camullenphd.github.io){:target="_blank"}: Dr. Cate Mullen's dissertation examines the history of community contributions to a music archive. *View Dr. Mullen's video walkthrough to the right.*
+- [Agnellus of Ravenna network](http://samplenetworks.kalanicraig.com/?dataset=gesta#/ ): this network traces the interactions between bishops, other people, and places in the account of Ravenna's bishops between the 2nd and 8th century, which I explored in both my MA thesis and dissertation. I came back to it for my first public use of Net.Create in a research environment. One scholarly contention is whether Agnellus, the author of the *[Liber pontificalis ecclesiae Ravennatis](https://www.brepols.net/products/IS-9782503049915-1){:target="_blank"}* (Book of the Bishops of Ravenna, Corpus Christianorum Continuatio Mediaevalis, vol. 199, ed. Deliyannis), delivered some of his histories orally. My takeaway from this network is that Agnellus uses places the way modern travel writers do, rather than as on-the-spot tour guides might. Places anchor the relationships he documents between bishops and other authority figures in the early Middle Ages for people who have yet to encounter either the people or the places.
+- [RAPTLab](http://theraptlab.org/projects/netcreate_examples){:target="_blank"}: these pilot networks from 5th and 6th graders learning data literacy through social sciences and STEM networks show the breadth of Net.Create's impact across disciplines. The networks here are also the basis for a successful 2023-26 round of NSF funding for Net.Create.
 
 ## Full Funding & Publication List
 {: .subheadline }
 
-Net.Create has been funded by NSF awards #[1848655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848655) and #[2241705](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241705) and by Lumina Foundation.
+Net.Create has been funded by NSF awards #[1848655](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848655){:target="_blank"} and #[2241705](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241705){:target="_blank"} and by Lumina Foundation.
 
 {% assign itemsProject = site.data.publications | where: 'project', 'Net.Create' %}
 

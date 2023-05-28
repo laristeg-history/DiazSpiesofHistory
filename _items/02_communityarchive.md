@@ -36,7 +36,14 @@ I started building a Community-Archive Jekyll Theme template from scratch in win
 
 ### Current Status
 
-The Community-Archive Jekyll Theme is free and available for use by any member of the public at https://community-archive.kalanicraig.com . A Quick-Start guide demonstrates its use and theme documentation provides more detail for digital historians and digital humanists seeking to customize the theme.
+The Community-Archive Jekyll Theme was made available for use by any member of the public at https://community-archive.kalanicraig.com in October of 2022. Version 4.0 is still officially labeled as a "beta" or test release, largely because it needs more widespread testing with external partners, but the example site at https://github.com/idahatiu/idahatiu.github.io has already been "forked", or used, by 8 people since October and there are 5 more community-archive projects in the work.
+
+### Resources and Guides
+
+A Quick-Start guide provides a fast way to get a community archive going; estimated start-up time for first-time users is about an hour. The theme documentation provides more detail for digital historians and digital humanists seeking to customize the theme for their own use.
+
+- [Quick-Start User Guide](https://community-archive.kalanicraig.com/quickstart)
+- [Theme documentation](https://community-archive.kalanicraig.com/docs)
 
 ### Future Plans
 
@@ -49,9 +56,9 @@ In addition to historians and art historians outside of IU who have worked with 
 
 Release of version 4.0 is scheduled for late summer 2023, after comprehensive pilot testing in the IDAH Summer Incubator and full theme documentation development.
 
-- This dossier!
-- https://idahatiu.github.io
-- https://homeboundatiu.github.io
+- **This dossier!** One of my goals has been to advance digital-history and digital-humanities scholarly communication. Using the Community-Archive Jekyll Theme for this dossier provides an additional use-case example for other academics struggling to present their digital scholarship.
+- [A Sample Collection](https://idahatiu.github.io): This example collection was built by members of the IDAH staff independently to serve as a platform for community partners to use as an example/template site with fewer moving parts than the full Community-Archive Jekyll Theme itself.
+- [Home Bound](https://homeboundatiu.github.io): Home Bound is an art exhibition curated by featuring artworks that each visualize aesthetic concepts of “home.” 
 
 ## Full Funding & Publication List
 {: .subheadline }

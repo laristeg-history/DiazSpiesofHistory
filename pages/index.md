@@ -16,18 +16,36 @@ This dossier supports my bid for tenure as Associate Professor of History on the
 - [Research](/research/): A detailed overview of my research projects
 - [Teaching](/teaching/): An exploration of digital-history methods in the classroom
 - [Service](/service/): Service-based contributions in digital humanities and digital history
- 
-{% if site.email != blank%}<p><em>{{ site.email }}</em></p>{%endif%}
+
+<div class="reveal" id="AboutDossier" data-reveal markdown="1">
+
+# About this format
+
+> Digital scholarship should be evaluated in its native digital medium, not printed out for inclusion in review materials.
+
+The American Historical Association's [*Guidelines for the Professional Evaluation of Digital Scholarship by Historians*](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians){:target="_blank"}
+
+I invite you to explore the digital-history scholarship in this interactive personal statement through **in-text representative samples** of **public-facing supporting documents** in the form of embedded links, screen captures, multimedia and interactive content.
+
+***Representative samples of documents** with **confidential information,** (solicited letters for teaching and service, course evaluations, internal university documents, email with contact information other than my own) were made available to external reviewers via a shared-document folder and are in IU's eDossier system.*
+
+<button class="close-button" data-close aria-label="Close modal" type="button">
+<span aria-hidden="true">&times;</span>
+</button>
+</div>
+
+<p><button class="button screen-only" data-open="AboutDossier">About the digital-dossier format</button></p>
+
 </div>
 </div>
 </div>
 
 Like all historians, I'm interested in the stories people tell that help document change and continuity over time. Like most *digital* historians, I explore these stories using a variety of digital tools and new methods. ***When digital historians make use of tools and methods developed by other disciplines for our analytical and presentational projects, we inherit the priorities and norms of those disciplines. My goal is to prioritize history's disciplinary norms as the foundation for the design of digital-history tools and methods.*** My research trajectory as a digital historian, then, is focused on the concurrent and intertwined development of historical theory, digital-history tools, and historical methods. That research takes four primary forms:
 
-- digital-tool and historical-method design with a variety of partners
-- analytical digital-history projects in collaboration with other historians using these digital tools and methods
-- digital public engagement projects in collaboration with academic and non-academic communities using these tools and methods
-- digital-humanities capacity-building and scholarly-communications research that explores how to better incorporate these tools and methods into the academy
+1. digital-tool and historical-method design with a variety of partners
+1. analytical digital-history projects in collaboration with other historians using digital tools and methods
+1. digital public engagement projects in collaboration with academic and non-academic communities using digital tools and methods
+1. digital-humanities capacity-building and scholarly-communications research that explores how to better incorporate digital tools and methods into the academy
 
 ## Past Accomplishments
 
@@ -41,4 +59,4 @@ Several in-progress projects extend one or more of the 4 strands of my research.
 
 Thanks to the American Historical Association for their [Guidelines for the Professional Evaluation of Digital Scholarship by Historians](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-professional-evaluation-of-digital-scholarship-by-historians), which ask historians to "consider new modes and forms of intellectual work within the discipline and to expand their understanding of what constitutes the discipline accordingly…, including new digital short-form genres such as blogs, social media or multimedia storytelling, developing and using new pedagogical methods, participating in strong activist forms of open-access distribution of scholarly work, or creating digital platforms and tools as alternative modalities of scholarly production."
 
-Thanks to [Sharon Leon](http://www.6floors.org/dossier/) and [Kathleen Fitzpatrick](https://machines.kfitz.info/dossier/) for their public-dossier models, to my clinical-promotion committee for guiding my [first public dossier](https://kalanicraig.com/dossier/), and to [Rebecca Wingo](http://rebeccawingo.com/dossier/), whose more recent public-dossier model helped guide the restructuring of this dossier to focus on research.
+Thanks to [Sharon Leon](http://www.6floors.org/dossier/) and [Kathleen Fitzpatrick](https://machines.kfitz.info/dossier/) for their pioneering models of the public-dossier format, to my clinical-promotion committee for guiding my [first public dossier](https://kalanicraig.com/dossier/), and to [Rebecca Wingo](http://rebeccawingo.com/dossier/), whose more recent public dossier helped guide the restructuring of this dossier to focus on research.
