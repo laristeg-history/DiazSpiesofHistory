@@ -1,0 +1,126 @@
+# External Grants
+
+## Awarded: $XXXXXXX
+
+Grant Title: Visualizing Funds of Identity while Exploring Data Literacy Concepts
+Relevant Project: Net.Create
+PIs: Joshua Danish (PI), Kalani Craig (Co-PI), Cindy Hmelo-Silver (Co-PI), Merijke Coenraad (Co-PI, Digital Promise).
+Amount: $902,020.00
+Status: Awarded, May 1, 2023 - April 30, 2026
+Abstract: 
+
+$902,020.00 from the National Science Foundation for Net.Create in "Visualizing Funds of Identity while Exploring Data Literacy Concepts". Principal Investigators: Joshua Danish (PI), Kalani Craig (Co-PI), Cindy Hmelo-Silver (Co-PI), Merijke Coenraad (Co-PI). May 1, 2023 - April 30, 2026.
+
+The Visualizing Funds of Identity while Exploring Data Literacy Concepts grant responds to the growing recognition that data literacy is an increasingly important set of skills. and network science in particular is at the heart of today’s youth’s experiences with technology. The goal of this project is to explore an approach in which middle school students in an underserved school district use network visualization in classrooms across the curriculum to learn about themselves and their communities, while simultaneously learning about the underlying network science and data literacy principles that are central to their experiences with many common technologies. The project team will design, implement, and study an instructional unit about network visualization using the open-source Net.Create software tool on which I was PI. My role will be to lead the integration of network analysis with history and humanities learning. I will also be responsible for the dissemination of the tool and study results to digital-history research and history-pedagogy communities.
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Awarded, May 1, 2023 - April 30, 2026
+Abstract: 
+$400,000.00 from the Lumina Foundation for Net.Create in "Data-Driven Human Network Design: Phase 2". Principal Investigators: Ann McCranie (PI), Kalani Craig (Co-PI), Kate Eddens (Co-PI).
+
+McCranie, A. (Program Director (PD)/Principal Investigator (PI)), Craig, K. (Co-PD/PI), Eddens, K. (Co-PD/PI), Grant, Research/Creative Activity, "Data-driven Human Network Design: Phase 2", Lumina Foundation, Competitive, Other, United States, $400,000.00, $333,333.33, $66,666.67, Awarded. (October 1, 2022 - June 30, 2024).
+Civic Engagement: No, Interprofessional Education/Practice: No
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Awarded, May 1, 2023 - April 30, 2026
+Abstract: 
+McCranie, A., Craig, K., Eddens, K. S., Grant, Research/Creative Activity, "DATA-DRIVEN HUMAN NETWORK DESIGN FOR LUMINA FOUNDATION", LUMINA FOUNDATION FOR EDUCATION, INC, Competitive, Other, 077224, $250,000.00, $208,333.00, $41,667.00. (June 15, 2021 - September 30, 2022).
+Diversity, Equity, Inclusion and Justice: Conducted research, Creative Activity, and/or Scholarship about diversity, equity, inclusion, and/or justice, Partnered with diverse community organizations to co-conduct needed research/creative activity, Studied and/or included groups that have been historically underserved by academic research or focused on understanding issues of social inequalities in myscholarship, Civic Engagement: No, Interprofessional Education/Practice: No
+This grant with Lumina Foundation pairs oral history techniques, digital-history network analysis approaches and social-science survey approaches to provide a history of the last decade of Lumina Foundation activity and its reach in the educational-equity non-profit world.
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Awarded, May 1, 2023 - April 30, 2026
+Abstract: 
+Craig, K., (PI) Danish, J. A., , Hmelo-Silver, C. E., Grant, Research/Creative Activity, "Net.Create: Using Network Analysis to Support Digital Humanities in Large History Classrooms", NATIONAL SCIENCE FOUNDATION, Competitive, Other, United States, 072270, Awarded, $299,661.00, $209,807.00, $89,854.00. (August 15, 2018 - July 31, 2021).
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Awarded, May 1, 2023 - April 30, 2026
+Abstract: 
+Craig, K. (Program Director (PD)/Principal Investigator (PI)), Danish, J. A. (Co-PD/PI), Hmelo-Silver, C. E. (Co-PD/PI), Grant, Research/Creative Activity, "Net.Create: Using Network Analysis to Support Digital Humanities Learning in Large History Classrooms", OVPR FRSP External Resubmission, Competitive, IU Internal, United States, $59,987.00, $59,987.00, Awarded. (January 15, 2018).
+Civic Engagement: No, Interprofessional Education/Practice: No
+0 Award Letter-1.pdf
+Network analysis is an increasingly popular tool for digital historians to represent and analyze historical contexts because it supports scholars in looking at a broad range of connections between people, places, and events. These people, places, and events are entered into a computer and represented as nodes in a diagram that is connected via lines called edges, which allow users to explore patterns in which nodes are connected to each other, and how. While humanities pedagogues are optimistic that the affordances of network analysis tools provide unique opportunities for supporting students in learning history, available tools do not support easy integration into humanities classrooms, and there is little empirical or theoretical support for how this might be accomplished. The Net.Create project aims to both open up this new genre of scholarship to undergraduate history students and provide a research base for activities that effectively integrate network analysis into history classrooms.
+
+Our initial proposal, submitted to NSF’s CyberLearning EXP program in February of 2017, aimed to develop Net.Create, a new, easy-to-use network analysis and visualization tool, and pedagogical support for that tool within a wide range of historical contexts. The Net.Create tool aims to bridge gaps in technical expertise, visualization integration and the use of network visualization in history classrooms by providing a scaffolded, easy-to use interface and curricular materials that are designed from the ground up to be successfully implemented in a lecture classroom. The tool would explicitly support student generation of network data from a historical text as a way of helping students to see the challenges of interpreting the evidence in a historical text and transforming it into a digital format, as well as the value that network analysis as a digital approach has in understanding the complexity of historical interactions. We will then use this new tool to systematically test the potential of network analysis as a new genre for learning in the humanities and to better understand how complex network visualization tools mediate learning and engagement in undergraduate humanities classrooms.
+
+## Rejected
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+
+Craig, K., McCranie, A. (Co-PD/PI), Grant, Research/Creative Activity, "Enhancing the Humanities with Net.Create Web: Collaborative Affordable Humanistic Network Analysis", National Endowment for the Humanities, Competitive, Federal, United States, $325,000.00, $284,273.00, $40,728.00, Rejected. (September 1, 2021 - August 31, 2023).
+Civic Engagement: No, Interprofessional Education/Practice: No
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+Craig, K. (Co-PD/PI), Dalmau, M. D. (Co-PD/PI), Hannah, M. (Co-PD/PI), Grant, Research/Creative Activity, "Crossroads of America: Advancing Midwestern Public Digital Humanities", National Endowment for the Humanities, Competitive, Federal, United States, $38,375.00, $29,072.00, $9,303.00, Rejected. (July 1, 2021 - June 3, 2023).
+Civic Engagement: No, Interprofessional Education/Practice: No
+Grant total across all institutions: $218,287
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+Craig, K., Grant, Research/Creative Activity, "Enhancing the Humanities with Net.Create Web: Collaborative Affordable Humanistic Network Analysis", National Endowment for the Humanities, Competitive, Federal, United States, $324,413.00, $284,555.00, $39,858.00, Rejected. (June 18, 2019 - June 2019).
+Civic Engagement: No, Interprofessional Education/Practice: No
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+Craig, K. (Program Director (PD)/Principal Investigator (PI)), Danish, J. A. (Co-PD/PI), Hmelo-Silver, C. E. (Co-PD/PI), Grant, Research/Creative Activity, "Net.Create: Using Network Analysis to Support Digital Humanities Learning in Large History Classrooms", National Science Foundation, Competitive, Federal, United States, $715,027.00, $503,708.00, $211,319.00, Rejected. (September 15, 2018).
+Civic Engagement: No, Interprofessional Education/Practice: No
+This Net.Create: Using Network Analysis to Support Digital Humanities Learning in Large History Classrooms is an innovative approach to network analysis that brings simultaneous multi-user predictive network data entry and live visualization into university history classrooms to support pedagogy and learning. Net.Create will aim to bridge gaps in technical expertise, visualization integration and the use of network analysis in history classrooms by providing a scaffolded, easy-to use interface and curricular materials that are designed from the ground up to be successfully implemented in a lecture classroom. The Net.Create platform explicitly supports collaborative generation of data as a way of helping students to see the challenges of interpreting evidence from a historical text and transforming it into a digital format, as well as the value that network analysis as a digital format has in understanding the complexity of historical interactions. We will then use Net.Create to systematically test the potential of network analysis as a new genre for learning in the humanities and to better understand how complex network visualization tools mediate learning and engagement in undergraduate humanities classrooms. We will explicitly contrast students’ learning processes and learning outcomes when they either create and refine networks, or work with prebuilt networks, allowing us to develop theory around how network analysis can be most effectively harnessed in both large university history classrooms and smaller, advanced history seminars. Our findings will generate theoretical frameworks for using technology to support student engagement and the development of historical-thinking practices. Our findings will also provide practical guidance for how instructors in a variety of humanities disciplines can adapt valuable network visualization and analysis skills, typically the focus of STEM disciplines, to support students as they engage with humanities learning.
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+Craig, K. (Program Director (PD)/Principal Investigator (PI)), Wilkins, K.-a. G. (Co-PD/PI), Grant, Research/Creative Activity, "Making the Arts & Humanities: Engaging Students in STEM Content Using Makerspace Approaches in Humanities Classrooms", Spencer Foundation, Competitive, Foundation, United States, $29,510.00, $29,510.00, Rejected. (November 1, 2017).
+Civic Engagement: No, Interprofessional Education/Practice: No
+Public discourse about how science, technology, engineering and math (STEM) differ from the arts and humanities (A&H) has made rigid distinctions between the two since the 1950s. However, 21st century employers have requested a blend of creative problem solving and communication skills that melds STEM and A&H skillsets together. Our research questions center on this need to integrate humanities inquiry with STEM innovation. Making the Arts & Humanities asks students to explore the interior and exterior of a 14th-century cathedral in Siena Italy via Google Cardboard’s VR and a 3D printed model of the cathedral, which has an incomplete Gothic exterior as a result of the Black Death outbreak in 1348. We will then scaffold student inquiry into the implicit and explicit STEM requirements that contributed to the production of the original and recreated versions of the Cathedral and discuss the cultural and social requirements that underpin these STEM considerations. We will study how these activities open students, particularly from marginalized groups who have traditionally had less exposure to STEM thinking, to new and interdisciplinary approaches and foster an awareness of how engineering and technology impact society and culture on both sides of the STEM/A&H divide.
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+Craig, K. (Program Director (PD)/Principal Investigator (PI)), Danish, J. A. (Co-PD/PI), Hmelo-Silver, C. E. (Co-PD/PI), Grant, Research/Creative Activity, "Net.Create: Using Network Analysis to Support Digital Humanities Learning in Large History Classrooms", National Science Foundation, Competitive, Federal, United States, $513,309.00, $339,287.00, $174,022.00, Rejected. (February 15, 2017).
+Civic Engagement: No, Interprofessional Education/Practice: No
+
+Grant Title:
+Relevant Project:
+PIs:
+Amount: $902,020.00
+Status: Rejected (submitted XXX date)
+Abstract: 
+Craig, K., Dalmau, M. D., Grant, Service, "Crowdsourcing the Digital Primary Source Index: Enhancing the Citation Cycle by Connecting Online Primary Sources and the Research Publications That Use Them", Institute of Museum and Library Services, Competitive, Federal, United States, $98,184.00, $74,620.00, $23,564.00, Rejected. (September 5, 2016).
+Civic Engagement: No, Interprofessional Education/Practice: No
+Submitted
