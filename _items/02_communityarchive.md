@@ -28,11 +28,13 @@ I worked to identify templating needs with the Center for Research on Race, Ethn
 
 ### My Role
 
-I adapted an existing static-site template XXXX and used Jekyll and Github Pages to generate a digital-exhibit website for the first-year-research-project History Harvest in Spring of 2019. I then revised that theme adaptation in Fall of 2019, with the spring 2019 and a summer user-group test in mind. A third theme adaptation in Spring of 2020 to begin the Remembering Freedom web site, provided a clear platform for testing and an initial list of revision needs.
+Like Net.Create, the current version of the Community-Archive template is built around several Design-Based History Research adaptations.
 
-One primary revision priority came out of those three initial tests. Our adaptation of an existing website theme allowed us to buildi digital-exhibit information requirements for metadata, oral histories, and argument-driven histories into a digital exhibit. However, these themes were overly complex because they were designed to serve any website need any random internet user might have. In order to provide a digital-exhibit platform anyone could use, we needed something purpose-built for community histories.
+Initially, I adapted an existing static-site template ([https://www.wowthemes.net/mediumish-free-jekyll-template/](Mediumish)) and used Jekyll and Github Pages to generate a digital-exhibit website for the first-year-research-project History Harvest in Spring of 2019. I then revised that theme adaptation in Fall of 2019, with the spring 2019 and a summer user-group test in mind. A third theme adaptation in Spring of 2020 to begin the Remembering Freedom web site, provided a clear platform for testing and an initial list of revision needs.
 
-I started building a Community-Archive Jekyll Theme template from scratch in winter of 2022 and completed a test version in early summer of 2022. In the year since, , I have revised it three times in response to new and ongoing community-archive projects, digital exhibits, and other related public history needs, *including this dossier*.
+One primary revision priority came out of those three initial tests. Our adaptation of an existing website theme allowed us to build digital-exhibit information requirements for metadata, oral histories, and argument-driven histories into a digital exhibit. However, these themes were overly complex because they were designed to serve any website need any random internet user might have. In order to provide a digital-exhibit platform anyone could use, we needed something purpose-built for community histories.
+
+I started building a Community-Archive Jekyll Theme template from scratch in winter of 2022 and completed a test version in early summer of 2022. In the year since, I have revised it three times in response to new and ongoing community-archive projects, digital exhibits, and other related digital-humanities-scholarship and digital-public history needs, *including this dossier*.
 
 ### Current Status
 

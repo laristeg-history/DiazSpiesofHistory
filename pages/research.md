@@ -14,4 +14,6 @@ My research takes four primary forms:
 
 Each of my digital-history projects integrates digital-history tool design and methods development in different measure and with various collaborators that extend the impact of my work to other subfields within history as well as beyond the field of history.
 
+[Click here for a full accounting of the grants and grant proposals that have supported this work](/research/grants/)
+
 ## Major Research Projects
