@@ -12,10 +12,10 @@ permalink: /
 
 This dossier supports my bid for tenure as Associate Professor of History on the basis of research.
 
-- [Personal statement](/statement/): A narrative of my research, teaching, and service trajectories
-- [Research](/research/): A detailed overview of my research projects
-- [Teaching](/teaching/): An exploration of digital-history methods in the classroom
-- [Service](/service/): Service-based contributions in digital humanities and digital history
+- [Personal statement](/statement): A narrative of my research, teaching, and service trajectories
+- [Research](/research): A detailed overview of my research projects
+- [Teaching](/teaching): An exploration of digital-history methods in the classroom
+- [Service](/service): Service-based contributions in digital humanities and digital history
 
 <div class="reveal" id="AboutDossier" data-reveal markdown="1">
 
