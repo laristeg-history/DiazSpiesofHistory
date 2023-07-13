@@ -17,3 +17,8 @@ Each of my digital-history projects integrates digital-history tool design and m
 [Click here for a full accounting of the grants and grant proposals that have supported this work](/research/grants/)
 
 ## Major Research Projects
+
+Each of these digital-history research overviews
+1. starts with a project goal and notes any external funding
+1. outlines the research products that constitute (or accompany, in the case of documentation and installation guides) the main digital-history tool
+1. notes peer-reviewed publications and conference proceedings as well as general conference presentations
