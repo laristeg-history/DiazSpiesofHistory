@@ -22,7 +22,7 @@
 		{% endif %}
 	</div>
 	<div class="cell small-12 medium-11">
-		{{item.citation | markdownify}}{% if item.doi != null and item.doi != "" %} DOI: <a href="{{ item.doi }}">{{ item.doi }}</a>.{% endif %}{% if item.link != null and item.link != "" %} <a href="{{ item.link }}">{{ item.link }}</a>.{% endif %}{% if item.collaboration != null and item.collaboration != "" %}<p class="quote">{{ item.collaboration }}</p>{% endif %}
+		{{item.citation | markdownify}}{% if item.doi != null and item.doi != "" %} DOI: <a href="{{ item.doi }}">{{ item.doi }}</a>.{% endif %}{% if item.link != null and item.link != "" %} <a href="{{ item.link }}">{{ item.link }}</a>.{% endif %}{% if item.collaboration != null and item.collaboration != "" %}<p class="indent">{{ item.collaboration }}</p>{% endif %}
 	</div>
 </div>
 {% if item.status == "present" %}
