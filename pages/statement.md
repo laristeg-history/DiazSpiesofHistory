@@ -22,18 +22,26 @@ icon: fa-folder-open
 
 Like all historians, I'm interested in the stories people tell that help document change and continuity over time. Like most *digital* historians, I explore these stories using a variety of digital tools and new methods. In some cases, I'm interested in big-data approaches to analysis; network analysis, historical Geographic Information Systems (GIS), and computational text analysis help historians find patterns, fill gaps, and look for new questions in historical documents. In other cases, I work with interactive modes of presentation that afford historians new ways to present historical scholarship and to engage with new publics.
 
-***When digital historians make use of tools and methods developed by other disciplines for our analytical and presentational projects, we inherit the priorities and norms of those disciplines. My goal is to prioritize history's disciplinary norms as the foundation for the design of digital-history tools and methods.*** My research trajectory as a digital historian, then, is focused on the concurrent and intertwined development of historical theory, digital-history tools, and historical methods. That research takes four primary forms:
+***When digital historians make use of tools and methods developed by other disciplines for our analytical and presentational projects, we inherit the priorities and norms of those disciplines. My goal is to prioritize history's disciplinary norms as the foundation for the design of digital-history tools and methods.*** My research trajectory as a digital historian, then, is focused on the concurrent and intertwined development of historical theory, digital-history tools, and historical methods. That research output takes four primary forms, from which I draw to articulate the individual elements of six major research projects:
 
-- digital-tool and historical-method design with a variety of partners
-- analytical digital-history projects in collaboration with other historians using these digital tools and methods. *This is akin to how academics in statistical-methods departments develop new statistical-analysis research methodologies as part of another researcher's content-focused social-science research project.*
-- digital public engagement projects in collaboration with academic and non-academic communities using these tools and methods
-- digital-humanities capacity-building and scholarly-communications research that explores how to better incorporate these tools and methods into the academy
+1. digital-tool and historical-method design with a variety of partners.
+	- [Net.Create](/items/01_netcreate.html)
+	- the digital-exhibit toolkit that anchors [Community Archive Digital Projects](/items/02_communityarchive.html)
+	- other digital-tool development under the auspices of [Design-Based History Research](/statement#research-digital-history-tool-and-methods-design)
+1. analytical digital-history projects in collaboration with other historians using my digital tools and methods.
+	- [MMATCH](/items/03_MMATCH.html) as a guiding principle for collaborative text-based publications rooted in digital-tool design or digital public history (e.g. [Sutton & Craig, DHQ 2022](http://www.digitalhumanities.org/dhq/vol/16/3/000640/000640.html))
+1. digital public engagement projects in collaboration with academic and non-academic communities using digital tools and methods.
+	- [History Harvests](https://historyharvest.indiana.edu) like [Remembering Freedom](https://longtownhistory.github.io), some of which are built on the  [Community Archive Toolkit](/items/02_communityarchive.html)
+	- [Global Middle Ages Pilgrimage](/items/06_GlobalMedieval.html)
+1. digital-humanities capacity-building and scholarly-communications research that explores how to better incorporate digital tools and methods into the academy.
+	- [Digital Humanities Capacity-Building Research](/items/04_DHCapacityBuilding.html)
+	- [Digital-History Scholarship of Teaching and Learning](/items/05_DigitalPedagogy.html)
 
-These 4 strands of research have been shaped by a decade of experimentation with the boundaries of traditional historical research, teaching and service in both industry and as a clinical faculty member. Many of my projects combine one or more of these digital-history and digital-humanities practices, and all of my projects are shaped around collaborations that support digital-history endeavors at a variety of scales.
+These four forms of research output, and the six research projects rooted in them, have been shaped by a decade of experimentation with the boundaries of traditional historical research, teaching and service in both industry and as a clinical faculty member. Many of my projects combine one or more of these digital-history and digital-humanities practices, and all of my projects are shaped around collaborations that support digital-history endeavors at a variety of scales.
 
 ## Past Accomplishments
 
-My research has been supported by $2.25 million in grant funding (2 NSF and 2 private-foundation grants) and includes digital-history tool design ([Net.Create](/items/01_netcreate.html)), digital public history endeavors ([History Harvests and community archives](/items/02_communityarchive.html)), and argument-driven digital-history research (Sutton & Craig, DHQ 2022; [Craig & Diaz, AHR, forthcoming](/items/03_MMATCH.html)). Each of my digital-history projects integrates digital-history tool design and methods development in different measure and with various collaborators that extend the impact of my work to other subfields within history as well as beyond the field of history.
+My research has been supported by $2.25 million in grant funding (2 NSF and 2 private-foundation grants) and includes digital-history tool design ([Net.Create](/items/01_netcreate.html)), digital public history endeavors ([History Harvests and community archives](/items/02_communityarchive.html)), and argument-driven digital-history research ([Sutton & Craig, DHQ 2022](http://www.digitalhumanities.org/dhq/vol/16/3/000640/000640.html); [Craig & Diaz, AHR, forthcoming](/items/03_MMATCH.html)). Each of my digital-history projects integrates digital-history tool design and methods development in different measure and with various collaborators that extend the impact of my work to other subfields within history as well as beyond the field of history.
 
 ## Future Work
 
@@ -42,7 +50,7 @@ Several in-progress projects extend one or more of the 4 strands of my research.
 # Research: Digital-History Tool and Methods Design
 {: .subheadline }
 
-Over the last 3 years in particular, I've developed an approach to digital-history research called *Design-Based History Research (DBHR)*. DBHR documents change and continuity over time in the context of a digital-history tool and the methods that best support the use of that tool in argument-driven history research. DBHR addresses the choices we make as a field about how we use new tools and methods, digital and traditional alike, choices that have long-term historiographic implications for our discipline.
+Over the last 3 years in particular, I've developed an approach to digital-history research called *Design-Based History Research (DBHR)*; the term reflects my history-specific adaptations of the Design-Based Research theory and practices common in Learning Sciences educational research. DBHR documents change and continuity over time in the context of a digital-history tool and the methods that best support the use of that tool in argument-driven history research. DBHR addresses the choices we make as a field about how we use new tools and methods, digital and traditional alike, choices that have long-term historiographic implications for our discipline.
 
 Where argument-driven digital history starts with archival primary sources, DBHR treats the stages of a digital history tool and the methods historians marshal to use that tool as primary-source material. These "primary source" models for using digital methods in historical analysis drive a cycle of theoretically-motivated tool design and building which is then interspersed with small-scale testing intended to provide proof-of-concept theoretical models for disciplinary innovation usable by other researchers.
 

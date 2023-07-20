@@ -10,7 +10,8 @@ permalink: /
 
 # In this dossier
 
-This dossier supports my bid for tenure as Associate Professor of History on the basis of research.
+This dossier supports my bid for tenure as Associate Professor of History on the basis of research. <span style="c60000">This public dossier omits documents with **confidential information,** (solicited letters for teaching and service, course evaluations, internal university documents, email with contact information other than my own); those are available in IU's [eDossier](http://edossier.iu.edu) to authenticated readers.*
+
 
 - [Personal statement](/statement): A narrative of my research, teaching, and service trajectories
 - [Research](/research): A detailed overview of my research projects
@@ -40,7 +41,7 @@ I invite you to explore the digital-history scholarship in this interactive pers
 </div>
 </div>
 
-Like all historians, I'm interested in the stories people tell that help document change and continuity over time. Like most *digital* historians, I explore these stories using a variety of digital tools and new methods. ***When digital historians make use of tools and methods developed by other disciplines for our analytical and presentational projects, we inherit the priorities and norms of those disciplines. My goal is to prioritize history's disciplinary norms as the foundation for the design of digital-history tools and methods.*** My research trajectory as a digital historian, then, is focused on the concurrent and intertwined development of historical theory, digital-history tools, and historical methods. That research takes four primary forms:
+Like all historians, I'm interested in the stories people tell that help document change and continuity over time. Like most *digital* historians, I explore these stories using a variety of digital tools and new methods. ***When digital historians make use of tools and methods developed by other disciplines for our analytical and presentational projects, we inherit the priorities and norms of those disciplines. My goal is to prioritize history's disciplinary norms as the foundation for the design of digital-history tools and methods.*** My research trajectory as a digital historian, then, is focused on the concurrent and intertwined development of historical theory, digital-history tools, and historical methods. That research output takes four primary forms, from which I draw to articulate the individual elements of [six major research projects](/research):
 
 1. digital-tool and historical-method design with a variety of partners
 1. analytical digital-history projects in collaboration with other historians using digital tools and methods

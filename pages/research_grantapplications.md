@@ -22,7 +22,7 @@ I've sought grant support for three strands of research.
 {% endfor %}
 </div>
 
-<h3>Rejected</h3>
+<h3>Not Funded</h3>
 <div class="posts grid-container">
 {% assign itemsSorted = site.data.publications | where: 'section', 'External' | sort: "date" | reverse %}
 {% assign itemsAwarded = itemsSorted | where: 'type', 'Rejected' | sort: "date" | reverse %}
