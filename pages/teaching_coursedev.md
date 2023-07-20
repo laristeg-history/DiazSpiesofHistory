@@ -1,7 +1,7 @@
 ---
 title: Course Development
 layout: collection
-permalink: /teaching/curriculumdev/
+permalink: /teaching/coursedev/
 group: teaching
 ---
 
