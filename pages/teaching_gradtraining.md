@@ -1,7 +1,7 @@
 ---
-title: Graduate Training and Mentoring
+title: Student Training and Mentoring
 layout: page
-permalink: /teaching/gradtraining/
+permalink: /teaching/mentoring/
 group: teaching
 ---
 
