@@ -5,6 +5,12 @@ permalink: /research/statureAHR/
 icon: fa-hashtag
 ---
 
+{% assign itemsProject = site.data.publications | where: 'citation', 'Arlene Diaz and Kalani Craig with David Kloster, &quot;A Diachronic Conversation with 19th Century War Correspondents and 21st century Historians: digital history, archival deep-dives, and US imperialism in Cuba’s Second War of Independence&quot; (forthcoming, Dec 2022)' %}
+
+{% for item in itemsProject %}
+{% include _citation.html %}
+{% endfor %}
+
 The American Historical Association (AHA) was founded in 1884 and chartered by Congress in 1889 to serve the interests of the entire discipline of history. Aligning with the AHA's mission, the AHR has been the journal of record for the historical profession in the United States since 1895—the only journal that brings together scholarship from every major field of historical study. The journal also publishes approximately one thousand book reviews per year, surveying and reporting the most important contemporary historical scholarship in the discipline.
 
 ## Impact Factor and Ranking

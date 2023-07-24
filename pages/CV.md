@@ -76,6 +76,10 @@ kalani [at] kalanicraig.com
 {% for item in itemsSorted %}
 {% include _citation.html %}
 {% endfor %}
+{% assign itemsSorted = newset | where: 'status', 'forthcoming' | sort: "date" | reverse %}
+{% for item in itemsSorted %}
+{% include _citation.html %}
+{% endfor %}
 {% assign itemsSorted = newset | where: 'status', '' | sort: "date" | reverse %}
 {% for item in itemsSorted %}
 {% include _citation.html %}
@@ -95,6 +99,7 @@ kalani [at] kalanicraig.com
 {% for item in itemsSorted %}
 {% include _citation.html %}
 {% endfor %}{% assign previous_i = "" %}
+
 <h4 class="sans CV">Book Reviews</h4>
 {% assign newset = "" | split:"" %}
 {% for item in site.data.publications %}
