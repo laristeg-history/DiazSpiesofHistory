@@ -5,6 +5,8 @@ permalink: /research/collaboration/
 icon: fa-hashtag
 ---
 
+For privacy reasons, collaborator-contribution letters were solicited by the department and are available in the solicited-letters section of eDossier.
+
 <h3>Awarded Grants</h3>
 <div class="posts grid-container">
 {% assign itemsSorted = site.data.publications | where: 'section', 'External' | sort: "date" | reverse %}
