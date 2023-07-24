@@ -11,3 +11,5 @@ In 2020, IDAH underwent an 3-year external review, which we took as an opportuni
 - [IDAH Strategic Plan for 2020-2025](https://idah.indiana.edu/about/strat-plan/): This plan, which we prepped for external reviewers as part of their virtual visit and then revised in response to their visit, page has been viewed more than 450 times \ 350 unique visitors since it was posted in January of 2021
 
 The public release of these documents has led to 3 consults with the directors of other digital-humanities centers (all peer institutions of IU with one multi-day consult and two 2-hour consults) about how to model capacity-building practices for their institutions.
+
+IDAH's other annual reports have been private documents, so they are in the protected service section of IU's eDossier rather than counted in the Digital-Humanities Capacity-Building Research.
