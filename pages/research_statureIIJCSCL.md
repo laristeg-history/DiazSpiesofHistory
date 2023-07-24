@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Stature of American Historical Review"
-permalink: /research/statureAHR/
+title: "Stature of International Journal of Computer-Supported Collaborative Learning"
+permalink: /research/statureIJCSCL/
 icon: fa-hashtag
 ---
 

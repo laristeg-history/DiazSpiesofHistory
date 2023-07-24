@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Stature of American Historical Review"
-permalink: /research/statureAHR/
+title: "Stature of Digital Humanities Quarterly"
+permalink: /research/statureDHQ/
 icon: fa-hashtag
 ---
 
