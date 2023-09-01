@@ -37,6 +37,10 @@ I invite you to explore the digital-history scholarship in this interactive pers
 
 <p><button class="button screen-only" data-open="AboutDossier">About the digital-dossier format</button></p>
 
+<div class="address">
+  	<hr> <p style="text-align:center"><a href="https://www.dropbox.com/s/r4csdi8l3nw2w6m/Kalani%20Craig%20CV.pdf?dl=0" target="_blank" rel="noopener noreferrer">CV</a> | <a itemprop="sameAs" content="https://orcid.org/{{ site.orcid }}" href="https://orcid.org/{{ site.orcid }}" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;" target="_blank"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> | <a href="https://scholar.google.com/citations?user={{ site.googlescholar }}&hl=en">Google Scholar</a><br><em>{{ site.email }}</em></p><hr>
+</div>
+
 </div>
 </div>
 </div>
