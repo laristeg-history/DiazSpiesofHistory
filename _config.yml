@@ -41,36 +41,36 @@ remote_theme: kalanicraig/community-archive-jekyll
 #---------------------
 
 # Title of your website
-title: "Kalani Craig Dossier"
+title: "Spies of History"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "For 2023 Tenure as Associate Professor of History"
+subtitle: "By Arelene Diaz"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "A digital dossier for tenure as Associate Professor of History."
+description: "A digital repository holding the data, tables, and graphs produced for Arlene Diaz's new book."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "KalaniCraig"
-authorname : "Kalani Craig"
+author: "ArleneDiaz"
+authorname : "Arlene Diaz"
 sitelogo: "01_netcreate.png"
 
 # What year did you start up this community project?
-sitedate : 2023
+sitedate : 2025
 
 # Other community social media. If you don't have these, use two quotes, like so: ""
-email : "kalani [at] kalanicraig.com"
-website : "https://www.kalanicraig.com/"
-twitter : KalaniCraig
-github : kalanicraig
+email : ""
+website : "https://history.indiana.edu/faculty_staff/faculty/diaz_arlene.html"
+twitter : ""
+github : ""
 facebook : ""
 instagram : ""
-orcid : 0000-0002-8909-0369
-googlescholar : XoedREEAAAAJ
+orcid : ""
+googlescholar : ""
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
-google_g4_analytics_id: G-LVREG1Y1DT
+#google_g4_analytics_id: G-LVREG1Y1DT
 
 ##############################################
 # FONTS AND COLORS
