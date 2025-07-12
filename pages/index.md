@@ -1,5 +1,6 @@
 ---
 title: Spying on Cubans
+permalink: /visualizations
 layout: collection
 group: chapters
 ---
