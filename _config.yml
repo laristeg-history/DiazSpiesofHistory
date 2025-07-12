@@ -41,13 +41,13 @@ remote_theme: kalanicraig/community-archive-jekyll
 #---------------------
 
 # Title of your website
-title: "Spies of History"
+title: "Spying on Cubans: A Backstage History of the Spanish-Cuban-American War, 1868-1898"
 
 # Subtitle of your website. Leave blank if you want to.
 subtitle: "By Arelene Diaz"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "A digital repository holding the data, tables, and graphs produced for Arlene Diaz's new book."
+description: "A digital repository holding the data and visualizations for Arlene Diaz's Spying on Cubans."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
