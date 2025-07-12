@@ -12,10 +12,15 @@ format: collection
 	<div class="grid-x grid-padding-x grid-margin-x">
 	{% if page.url contains "blog" %}{% include _postlist.html %}
 	{% else %}
-		{% assign sorted_items = site.items | sort: 'chapter_number' %}
-		{% for item in sorted_items %}
-			{% assign current_item = item %}
-			{% include _itemlist.html %}
+		{% comment %}Handle sorting at this level instead of in _itemlist.html{% endcomment %}
+		{% if page.group %}
+			{% assign siteitems = site.items | where:"group", page.group | sort: 'chapter_number' %}
+		{% else %}
+			{% assign siteitems = site.items | sort: 'chapter_number' %}
+		{% endif %}
+		
+		{% for item in siteitems %}
+			{% include _itembox.html %}
 		{% endfor %}
 	{% endif %}
 		</div>
