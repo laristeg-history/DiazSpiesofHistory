@@ -1,5 +1,5 @@
 ---
-title: Spying on Cubans: A Backstage History of the Spanish-Cuban-American War, 1868-1898
+title: Spying on Cubans
 layout: collection
 permalink: /spying_on_cubans
 group: chapters
