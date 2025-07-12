@@ -1,8 +1,7 @@
 ---
 layout: item
-title: Chapter Two
+title: "Chapter Two: Spanish Espionage to 'Destroy the Cubans,' 1868-1879"
 author: "Arlene Diaz"
-subtitle: "Spanish Espionage to 'Destroy the Cubans,' 1868-1879"
 embedurl: 
 group: chapters
 categories: [ Large Scale, Past, Current, Future ]
@@ -12,5 +11,5 @@ tags: [  ]
 ## Similarity Heatmap of Collazo
 
 <div>
-<iframe class="text-center" title="Collazo Book Similarity Heatmap" src="{{ site.baseurl }}/assets/chapter_two/heatmap_collazo.html" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe style="width: 100%; height: 600px;" class="text-center" title="Collazo Book Similarity Heatmap" src="{{ site.baseurl }}/assets/chapter_two/heatmap_collazo.html" border: none; webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
