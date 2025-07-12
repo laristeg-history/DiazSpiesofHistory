@@ -1,7 +1,7 @@
 ---
 title: Spying on Cubans
 permalink: Visualizations
-layout: page
+layout: collection
 group: chapters
 ---
 
