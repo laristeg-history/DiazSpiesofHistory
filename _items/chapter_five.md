@@ -1,6 +1,6 @@
 ---
 layout: item
-title: "Chapter Five: The American Spy and the Cuban General,1895-1898"
+title: "Chapter Five: The American Spy and the Cuban General, 1895-1898"
 author: "Arlene Diaz"
 embedurl: 
 group: chapters
