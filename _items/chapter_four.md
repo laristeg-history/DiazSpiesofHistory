@@ -4,6 +4,7 @@ title: "Chapter Four: Shadowing New York Cubans (1880-1895)"
 author: "Arlene Diaz"
 embedurl: 
 group: chapters
+chapter_number: 4
 categories: [ Large Scale, Past, Current, Future ]
 tags: [  ]
 ---
