@@ -1,5 +1,5 @@
 ---
-title: Spying on Cubans Visualizations
+title: Visualizations for Spying on Cubans
 layout: collection
 permalink: /spying_on_cubans
 group: chapters
