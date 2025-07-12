@@ -4,6 +4,7 @@ title: "Chapter Three: The Ten Years’ War and the First Zanjon"
 author: "Arlene Diaz"
 embedurl: 
 group: chapters
+chapter_number: 3
 categories: [ Large Scale, Past, Current, Future ]
 tags: [  ]
 ---
