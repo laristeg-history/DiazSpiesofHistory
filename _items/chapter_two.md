@@ -4,7 +4,7 @@ title: Chapter 2
 author: "Arlene Diaz"
 subtitle: "Spanish Espionage to 'Destroy the Cubans,' 1868-1879"
 embedurl: 
-group: chapter
+group: chapters
 categories: [ Large Scale, Past, Current, Future ]
 tags: [  ]
 ---
