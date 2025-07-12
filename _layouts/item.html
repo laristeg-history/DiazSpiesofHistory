@@ -20,6 +20,7 @@ format: item
 	{% endfor %}
 {% endif %}
 
+{% comment %}
 {% if page.embedurl %}
 <div class="responsive-embed">
 <iframe width="420" height="315" src="{{ page.embedurl }}" frameborder="0" allowfullscreen></iframe>
@@ -37,7 +38,8 @@ format: item
 <button class="button button-img" data-open="itemImage"><img src="{{ ItemPhotoResult }}" alt="{{ page.title }}"/>
 </div>
 </div>
-
+{% endcomment %}
+			
 {% endif %}
 {% if page.shortdesc %}
 
