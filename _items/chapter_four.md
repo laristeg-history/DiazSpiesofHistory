@@ -32,3 +32,16 @@ tags: [  ]
 <div>
 <iframe style="width: 100%; height: 800px; border: none;" class="text-center" title="Topic Model of Hojas Literarias by Manuel Sanguily (1893)" src="{{ site.baseurl }}/assets/chapter_four/corpus_1893_msanguily_pyldavis_8_topics.html" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
+
+## Topic Model of Jose Marti's articles in Patria
+
+<div>
+<iframe style="width: 100%; height: 800px; border: none;" class="text-center" title="Topic Model of Jose Marti's articles in Patria" src="{{ site.baseurl }}/assets/chapter_four/LDAVis_Mallet_Marti_Patria.html" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+
+## Topic Model of Jose Marti's articles in Chronicles
+
+<div>
+<iframe style="width: 100%; height: 800px; border: none;" class="text-center" title="Topic Model of Jose Marti's articles in Chronicles" src="{{ site.baseurl }}/assets/chapter_four/LDAVis_Mallet_Marti_Chronicles.html" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
