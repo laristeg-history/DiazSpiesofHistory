@@ -1,5 +1,5 @@
 ---
-title: Visualizations for Spying on Cubans
+title: Spying on Cubans: A Backstage History of the Spanish-Cuban-American War, 1868-1898
 layout: collection
 permalink: /spying_on_cubans
 group: chapters
