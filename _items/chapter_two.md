@@ -11,5 +11,5 @@ tags: [  ]
 ## Similarity Heatmap of Collazo
 
 <div>
-<iframe style="width: 100%; height: 600px;" class="text-center" title="Collazo Book Similarity Heatmap" src="{{ site.baseurl }}/assets/chapter_two/heatmap_collazo.html" border: none; webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe style="width: 100%; height: 600px;" class="text-center" title="Collazo Book Similarity Heatmap" src="{{ site.baseurl }}/assets/chapter_two/heatmap_collazo.html" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
