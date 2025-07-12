@@ -1,6 +1,7 @@
 ---
 title: Visuzalization
 layout: collection
+permalink: /spying_on_cubans
 group: chapters
 ---
 
